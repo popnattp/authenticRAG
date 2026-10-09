@@ -1,0 +1,6471 @@
+{
+  "nodes": [
+    {
+      "id": "German Measles",
+      "description": "A viral infection also known as rubella.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 0
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 2
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 4
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 7
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 12
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 14
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 16
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 19
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 21
+        }
+      ]
+    },
+    {
+      "id": "Rubella Virus",
+      "description": "The virus that causes German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Fever and Rash",
+      "description": "Common symptoms of German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Pregnant Women",
+      "description": "A risk group for severe complications from German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 16
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 19
+        }
+      ]
+    },
+    {
+      "id": "Fetal Abnormalities",
+      "description": "Potential complications in fetuses exposed to Rubella virus during the first trimester.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 16
+        }
+      ]
+    },
+    {
+      "id": "Immunity",
+      "description": "Long-lasting immunity acquired after infection with German Measles.",
+      "documents": [
+        "1",
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 16
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "15-24 Years",
+      "description": "Age group with the highest incidence of German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Close Contact",
+      "description": "A mode of transmission for German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Rubella virus",
+      "description": "A virus that causes German measles, belonging to the Togaviridae family.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "German measles",
+      "description": "A viral infection caused by the Rubella virus.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Togaviridae",
+      "description": "A family of viruses that includes the Rubella virus.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Respiratory droplets",
+      "description": "Droplets from the nose, mouth, and throat of an infected person.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Contact transmission",
+      "description": "Transmission of the virus through direct contact with contaminated surfaces or objects.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Incubation period",
+      "description": "The time from exposure to the virus to the onset of symptoms, typically 12-24 days.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Contagious period",
+      "description": "The period during which an infected person can spread the virus, from 5-7 days before the rash appears to 6-14 days after the rash appears.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Rash",
+      "description": "A skin eruption or discoloration that is a common symptom of German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "Fever",
+      "description": "A common symptom of German Measles, typically low to moderate grade.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "Headache",
+      "description": "A symptom that can occur in the pre-rash stage of German Measles.",
+      "documents": [
+        "1",
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 4
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "Conjunctivitis",
+      "description": "Inflammation of the eye that can occur in the pre-rash stage of German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "Lymphadenopathy",
+      "description": "Swollen lymph nodes, often palpable, that can occur in the pre-rash stage of German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "Forchheimer Spots",
+      "description": "Small red spots on the soft palate that can appear in the pre-rash stage of German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "Congenital Rubella Syndrome",
+      "description": "A condition that can occur in infants whose mothers are infected with German Measles during pregnancy, leading to various disabilities.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 4
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "Hearing Loss",
+      "description": "A potential complication of Congenital Rubella Syndrome, affecting one or both ears.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "ทารกในครรภ์",
+      "description": "ทารกที่ยังอยู่ในครรภ์มารดา",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "ติดเชื้อ",
+      "description": "การที่ทารกในครรภ์ได้รับเชื้อจากทางรก",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "ความพิการ",
+      "description": "ภาวะที่ทารกในครรภ์มีความผิดปกติทางร่างกาย",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "หูหนวก",
+      "description": "ภาวะที่ทารกมีปัญหาการได้ยิน อาจเป็นทั้งสองข้างหรือข้างเดียว",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 5
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 17
+        }
+      ]
+    },
+    {
+      "id": "หัวใจพิการ",
+      "description": "ภาวะที่ทารกมีความผิดปกติในระบบหัวใจ",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 5
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 15
+        }
+      ]
+    },
+    {
+      "id": "ต้อกระจก",
+      "description": "ภาวะที่เกิดขึ้นกับตา ทำให้มองเห็นภาพผิดปกติ",
+      "documents": [
+        "1",
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 6
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 15
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 4
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 6
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 7
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 8
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 13
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 14
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 15
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 18
+        }
+      ]
+    },
+    {
+      "id": "ตาทั้งสองข้าง",
+      "description": "ทั้งสองตาของผู้ป่วย",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 6
+        }
+      ]
+    },
+    {
+      "id": "จอตามีเม็ดสีผิดปกติ",
+      "description": "ภาวะที่จอตาแสดงเม็ดสีผิดปกติ",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 6
+        }
+      ]
+    },
+    {
+      "id": "Bacterial Infection",
+      "description": "An infection caused by bacteria.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "Complications",
+      "description": "Adverse effects or conditions arising from a disease.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "โรคหัดเยอรมัน",
+      "description": "โรคติดเชื้อที่มักพบในเด็กโตและผู้ใหญ่",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 8
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 23
+        }
+      ]
+    },
+    {
+      "id": "ข้ออักเสบ",
+      "description": "ภาวะแทรกซ้อนที่พบได้บ่อยในโรคหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "สมองอักเสบ",
+      "description": "ภาวะแทรกซ้อนที่พบได้ไม่บ่อยในโรคหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 8
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 17
+        }
+      ]
+    },
+    {
+      "id": "เลือดออกง่ายผิดปกติ",
+      "description": "ภาวะแทรกซ้อนที่เกิดจากเกล็ดเลือดต่ำในโรคหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "เยื่อบุหัวใจหรือกล้ามเนื้อหัวใจอักเสบ",
+      "description": "ภาวะแทรกซ้อนที่อาจเกิดขึ้นในโรคหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "ประสาทตาอักเสบ",
+      "description": "ภาวะแทรกซ้อนที่อาจเกิดขึ้นในโรคหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "ไขสันหลังอักเสบ",
+      "description": "ภาวะแทรกซ้อนที่อาจเกิดขึ้นในโรคหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "ตับอักเสบ",
+      "description": "ภาวะแทรกซ้อนที่อาจเกิดขึ้นในโรคหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "ภาวะแทรกซ้อน",
+      "description": "Complications that can occur during pregnancy",
+      "documents": [
+        "1",
+        "44",
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 9
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 8
+        },
+        {
+          "doc_id": "5555",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "หญิงตั้งครรภ์",
+      "description": "Pregnant women",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 9
+        }
+      ]
+    },
+    {
+      "id": "หัดเยอรมัน",
+      "description": "โรคติดเชื้อไวรัสที่มักพบในเด็กและผู้ใหญ่",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 11
+        },
+        {
+          "doc_id": "1",
+          "chunk_id": 17
+        }
+      ]
+    },
+    {
+      "id": "IgM antibody",
+      "description": "สารภูมิต้านทานชนิดเอ็มที่ใช้ในการวินิจฉัยหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "IgG antibody",
+      "description": "สารภูมิต้านทานชนิดจีที่ใช้ในการวินิจฉัยหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "CBC (Complete Blood Count)",
+      "description": "การตรวจเลือดที่พบภาวะเม็ดเลือดขาวและเกล็ดเลือดต่ำในผู้ป่วยหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "ทารกที่ผิดปกติ",
+      "description": "ทารกที่คลอดจากมารดาที่สงสัยว่าติดเชื้อหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "การแยกเชื้อไวรัส",
+      "description": "วิธีการตรวจที่ใช้ในการวินิจฉัยทารกที่ผิดปกติโดยการเพาะเลี้ยงเซลล์",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "Antigens",
+      "description": "สารก่อภูมิต้านทานต่อเชื้อหัดเยอรมันที่ตรวจได้จากน้ำไขสันหลังและ/หรือเลือด",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "Pink Rash",
+      "description": "A flat, small, pink rash that spreads over the face, neck, trunk, arms, and legs.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Low-grade Fever",
+      "description": "A mild fever ranging from 37.5 to 38.5 degrees Celsius.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Red Spots",
+      "description": "Small red spots the size of a pinhead found on the soft palate of the mouth.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Swollen Lymph Nodes",
+      "description": "Enlarged lymph nodes that can be felt as lumps behind the ears, at the back of the neck, and on both sides of the neck.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Red Eyes",
+      "description": "Mild redness in the eyes.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "หวัด",
+      "description": "โรคที่มีอาการไข้, เจ็บคอ, น้ำมูกไหล, ไอ",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "หัด",
+      "description": "โรคที่มีไข้สูง, หน้าแดง, เบื่ออาหาร, ซึม, ผื่นแดงขึ้นตามลำตัวและแขนขา",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "ไข้เลือดออก",
+      "description": "โรคที่มีไข้สูง, หน้าแดง, ตาแดง, ซึม, เบื่ออาหาร, ผื่นแดง, จุดเลือดออกเล็ก ๆ",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "สาไข้",
+      "description": "โรคที่พบในเด็กอายุไม่เกิน 3 ขวบ, มีไข้สูง 3-5 วัน, ผื่นแดงขึ้นหลังไข้ลด",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "ผื่นจากยา",
+      "description": "ผื่นแดงที่เกิดจากการรับประทานยา, มักมีอาการคันหรือไม่มีอาการคัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "Paracetamol",
+      "description": "A medication used to reduce fever and pain.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "Reye's Syndrome",
+      "description": "A rare but serious condition that can cause swelling in the liver and brain.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "Calamine Lotion",
+      "description": "A topical medication used to relieve itching.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "NSAIDs",
+      "description": "Non-steroidal anti-inflammatory drugs used to reduce inflammation and pain.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "Encephalitis",
+      "description": "Inflammation of the brain, a potential complication of German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "Myocarditis",
+      "description": "Inflammation of the heart muscle, a potential complication of German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "Meningitis",
+      "description": "Inflammation of the membranes surrounding the brain and spinal cord, a potential complication of German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "Immunoglobulin",
+      "description": "A treatment that can help reduce the severity of German Measles in pregnant women.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "ต้อหิน",
+      "description": "ความผิดปกติของตาที่อาจต้องการการผ่าตัด",
+      "documents": [
+        "1",
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 15
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 6
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 7
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 8
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 13
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "ภาวะตัวเหลือง",
+      "description": "ภาวะที่ผิวหนังและตาเหลืองซึ่งอาจรักษาด้วยการอาบแสงยูวี",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 15
+        }
+      ]
+    },
+    {
+      "id": "หินปูนในสมอง",
+      "description": "ความผิดปกติที่ไม่สามารถรักษาได้",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 15
+        }
+      ]
+    },
+    {
+      "id": "Isolation",
+      "description": "The practice of separating individuals with German Measles to prevent the spread of the virus.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 16
+        }
+      ]
+    },
+    {
+      "id": "Hydration",
+      "description": "Drinking plenty of fluids is recommended for patients with German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 16
+        }
+      ]
+    },
+    {
+      "id": "การตั้งครรภ์",
+      "description": "ภาวะที่สตรีมีท้อง",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 17
+        }
+      ]
+    },
+    {
+      "id": "ปัญหาการได้ยิน",
+      "description": "ภาวะที่ทารกไม่สามารถได้ยินหรือตอบสนองต่อเสียงตามปกติ",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 17
+        }
+      ]
+    },
+    {
+      "id": "เกล็ดเลือดต่ำ",
+      "description": "ภาวะที่เกล็ดเลือดในร่างกายต่ำกว่าปกติ",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 17
+        }
+      ]
+    },
+    {
+      "id": "ดีซ่าน",
+      "description": "ภาวะที่ผิวหนังและตาเหลืองจากการสะสมของบิลิรูบิน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 17
+        }
+      ]
+    },
+    {
+      "id": "ปลาไหลเผือก",
+      "description": "ใช้เปลือกลำต้นนำมาต้มเอาน้ำกินเป็นยาแก้ไข้เหือดหัด",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 18
+        }
+      ]
+    },
+    {
+      "id": "ผักหนาม",
+      "description": "ใช้ลำต้นนำมาต้มเอาน้ำอาบแก้อาการคันเนื่องจากพิษหัด เหือด ไข้ออกผื่น",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 18
+        }
+      ]
+    },
+    {
+      "id": "เสลดพังพอนตัวเมีย",
+      "description": "ใช้ใบสดนำมาต้มและตำผสมกับน้ำ ใช้ทั้งกินและชโลมทาสำหรับเด็กที่เป็นหัด เหือด",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 18
+        }
+      ]
+    },
+    {
+      "id": "หญ้าแพรก",
+      "description": "ทั้งต้นใช้ต้มกับน้ำกินเป็นยาแก้ไข้พิษ ไข้กาฬ ไข้หัว รวมถึงเหือดหัด",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 18
+        }
+      ]
+    },
+    {
+      "id": "หัวของต้นคล้า",
+      "description": "สมุนไพรอื่น ๆ ที่ใช้ในการรักษาหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 18
+        }
+      ]
+    },
+    {
+      "id": "รากผักชี",
+      "description": "สมุนไพรอื่น ๆ ที่ใช้ในการรักษาหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 18
+        }
+      ]
+    },
+    {
+      "id": "ใบมะยม",
+      "description": "สมุนไพรอื่น ๆ ที่ใช้ในการรักษาหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 18
+        }
+      ]
+    },
+    {
+      "id": "รากหญ้าขัดใบมน",
+      "description": "สมุนไพรอื่น ๆ ที่ใช้ในการรักษาหัดเยอรมัน",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 18
+        }
+      ]
+    },
+    {
+      "id": "MMR Vaccine",
+      "description": "A combined vaccine that protects against measles, mumps, and rubella.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 19
+        }
+      ]
+    },
+    {
+      "id": "Children",
+      "description": "A group recommended to receive the MMR vaccine.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 19
+        }
+      ]
+    },
+    {
+      "id": "Teenage Girls",
+      "description": "A group that may need the MMR vaccine if not previously vaccinated.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 19
+        }
+      ]
+    },
+    {
+      "id": "Outbreak",
+      "description": "A period when the disease is spreading in the community.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 19
+        }
+      ]
+    },
+    {
+      "id": "Measles",
+      "description": "A viral infection causing fever, rash, and other symptoms.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 20
+        }
+      ]
+    },
+    {
+      "id": "Mumps",
+      "description": "A viral infection causing swelling of the salivary glands and other symptoms.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 20
+        }
+      ]
+    },
+    {
+      "id": "Rubella",
+      "description": "A viral infection also known as German Measles.",
+      "documents": [
+        "1"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 21
+        }
+      ]
+    },
+    {
+      "id": "เมดไทย",
+      "description": "เว็บไซต์ให้ข้อมูลเกี่ยวกับการดูแลสุขภาพและการรักษาโรค",
+      "documents": [
+        "1",
+        "44",
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "1",
+          "chunk_id": 23
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 18
+        },
+        {
+          "doc_id": "5555",
+          "chunk_id": 16
+        }
+      ]
+    },
+    {
+      "id": "Cholera",
+      "description": "A bacterial infection causing severe diarrhea and dehydration.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 0
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 2
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 10
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 12
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 14
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 15
+        }
+      ]
+    },
+    {
+      "id": "Vibrio cholerae",
+      "description": "Bacterium that causes cholera.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "Diarrhea",
+      "description": "Primary symptom of cholera, characterized by watery stools.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "Vomiting",
+      "description": "Common symptom of cholera, often accompanies diarrhea.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Dehydration",
+      "description": "Severe condition resulting from excessive loss of body fluids, common in cholera.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "Shock",
+      "description": "Critical condition that can lead to death if not treated promptly, often a complication of severe dehydration in cholera.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 6
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "Mortality",
+      "description": "High death rate associated with cholera, especially in historical contexts.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Age Groups",
+      "description": "Cholera affects all age groups but is more common in adults over 15 years old.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Gender",
+      "description": "Both males and females are equally susceptible to cholera.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Hygiene",
+      "description": "Poor hygiene and sanitation are significant risk factors for cholera.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Seasonality",
+      "description": "Cholera outbreaks are more common during the summer, especially after prolonged dry periods.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Geographical Distribution",
+      "description": "Cholera is prevalent in coastal regions of Thailand, Southeast Asia, South Asia, Africa, and Latin America.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Travel",
+      "description": "Travel to underdeveloped countries increases the risk of contracting cholera.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Epidemics",
+      "description": "Cholera can cause large-scale outbreaks, especially in crowded and refugee camps.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Vibrio cholerae O1",
+      "description": "Serogroup of Vibrio cholerae that causes major outbreaks.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "Vibrio cholerae O139",
+      "description": "New serogroup of Vibrio cholerae that caused a major outbreak in India and Bangladesh in 1992-1993.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "El Tor biotype",
+      "description": "Subtype of Vibrio cholerae O1, less severe but more common in recent outbreaks.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "Classical biotype",
+      "description": "Subtype of Vibrio cholerae O1, historically responsible for severe outbreaks.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "Waterborne transmission",
+      "description": "Transmission of cholera through contaminated water.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "Foodborne transmission",
+      "description": "Transmission of cholera through contaminated food.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "Fecal-oral route",
+      "description": "Transmission of cholera through contact with feces of infected individuals.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "Houseflies",
+      "description": "Insects that can act as vectors for cholera transmission.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "อหิวาตกโรค",
+      "description": "โรคติดเชื้อที่เกิดจากการรับประทานอาหารหรือดื่มน้ำที่ปนเปื้อนเชื้อ",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 3
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 5
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "เชื้ออหิวาตกโรค",
+      "description": "เชื้อที่ทำให้เกิดโรคอหิวาตกโรค",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "อาหารทะเลดิบ",
+      "description": "อาหารทะเลที่ไม่ได้ปรุงสุก เช่น หอยแครง หอยแมลงภู่ ปูแสมเค็ม",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "น้ำที่มีเชื้อปนเปื้อน",
+      "description": "น้ำที่มีเชื้ออหิวาตกโรคปนเปื้อน",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "การติดต่อจากคนสู่คน",
+      "description": "การแพร่เชื้อผ่านการสัมผัสใกล้ชิดกับผู้ติดเชื้อ",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Cholera toxin",
+      "description": "สารพิษที่เชื้ออหิวาตกโรคสร้างขึ้นทำให้เกิดการอักเสบของลำไส้เล็ก",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "อาการท้องเสีย",
+      "description": "อาการถ่ายอุจจาระเป็นน้ำในปริมาณมาก",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "ยาปฏิชีวนะ",
+      "description": "ยาที่ใช้ในการรักษาการติดเชื้ออหิวาตกโรค",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 3
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 4
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "ท้องเสีย",
+      "description": "อาการทางเดินอาหารที่ทำให้เกิดการถ่ายอุจจาระบ่อยครั้งและเหลว",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "ไข้",
+      "description": "อาการที่อุณหภูมิร่างกายสูงกว่าปกติ",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "เชื้อ",
+      "description": "องค์กรชีวภาพที่สามารถทำให้เกิดโรค",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "อุจจาระ",
+      "description": "ของเสียที่ถูกขับออกจากร่างกายผ่านทางทวารหนัก",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "การติดเชื้อเรื้อรัง",
+      "description": "การติดเชื้อที่มีระยะเวลาการดำเนินโรคยาวนาน",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "พาหะแพร่เชื้อ",
+      "description": "บุคคลที่ไม่มีอาการแสดงของโรคแต่สามารถแพร่เชื้อให้ผู้อื่นได้",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "อุจจาระร่วงไม่รุนแรง",
+      "description": "อาการท้องเสียที่ไม่รุนแรงและไม่ทำให้เกิดภาวะขาดน้ำ",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "อุจจาระร่วงรุนแรง",
+      "description": "อาการท้องเสียที่รุนแรงและอาจทำให้เกิดภาวะขาดน้ำ",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "ภาวะขาดน้ำ",
+      "description": "ภาวะที่ร่างกายสูญเสียน้ำและเกลือแร่ในปริมาณมาก",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 4
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "ปวดท้อง",
+      "description": "อาการที่พบในผู้ป่วยอหิวาตกโรคในระดับเล็กน้อยถึงปานกลาง",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "คลื่นไส้",
+      "description": "อาการที่พบในผู้ป่วยอหิวาตกโรคในระดับเล็กน้อยถึงปานกลาง",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "อาเจียน",
+      "description": "อาการที่พบในผู้ป่วยอหิวาตกโรคทั้งในระดับเล็กน้อยถึงปานกลางและรุนแรง",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "ถ่ายเหลว",
+      "description": "อาการที่พบในผู้ป่วยอหิวาตกโรคทั้งในระดับเล็กน้อยถึงปานกลางและรุนแรง",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "ถ่ายเป็นน้ำ",
+      "description": "อาการที่พบในผู้ป่วยอหิวาตกโรครุนแรง",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "อุจจาระมีสีเหลือง",
+      "description": "ลักษณะของอุจจาระในระยะแรกของผู้ป่วยอหิวาตกโรครุนแรง",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "อุจจาระมีสีเหมือนน้ำซาวข้าว",
+      "description": "ลักษณะของอุจจาระในผู้ป่วยอหิวาตกโรครุนแรงที่มีมูกมาก",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "กลิ่นเหม็นเหมือนคาวปลา",
+      "description": "กลิ่นที่พบในอุจจาระของผู้ป่วยอหิวาตกโรครุนแรง",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "Severe Diarrhea",
+      "description": "A condition where a large volume of stool is passed, potentially more than 1 liter per hour in adults.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 6
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Hydration Therapy",
+      "description": "The administration of fluids and electrolytes to prevent or treat dehydration.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 6
+        }
+      ]
+    },
+    {
+      "id": "Severe Dehydration",
+      "description": "A serious condition where the body loses a significant amount of water and electrolytes.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 6
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 10
+        }
+      ]
+    },
+    {
+      "id": "Death",
+      "description": "The cessation of all vital functions.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 6
+        }
+      ]
+    },
+    {
+      "id": "ภาวะแทรกซ้อนของอหิวาตกโรค",
+      "description": "ภาวะที่อาจเกิดขึ้นจากการติดเชื้ออหิวาตกโรค",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "ช็อก",
+      "description": "ภาวะที่ระบบไหลเวียนเลือดทำงานผิดปกติอย่างรุนแรง",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "ภาวะไตวายเฉียบพลัน",
+      "description": "ภาวะที่ไตไม่สามารถทำงานได้อย่างมีประสิทธิภาพอย่างรวดเร็ว",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "ภาวะเลือดเป็นกรด",
+      "description": "ภาวะที่ความเป็นกรดในเลือดเพิ่มขึ้น",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "ภาวะเลือดคั่งในปอด",
+      "description": "ภาวะที่มีน้ำสะสมในปอด",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "ภาวะโพแทสเซียมในเลือดต่ำ",
+      "description": "ภาวะที่ระดับโพแทสเซียมในเลือดต่ำกว่าปกติ",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "ภาวะน้ำตาลในเลือดต่ำ",
+      "description": "ภาวะที่ระดับน้ำตาลในเลือดต่ำกว่าปกติ",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "ภาวะตะคริว",
+      "description": "ภาวะที่มีการเกร็งของกล้ามเนื้ออย่างไม่สมัครใจ",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "ORS",
+      "description": "Oral Rehydration Solution, a mixture of water, sugar, and salts used to treat dehydration.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 10
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Antibiotics",
+      "description": "Medications used to treat bacterial infections, including cholera.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 10
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 12
+        },
+        {
+          "doc_id": "2",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "Intravenous Fluids",
+      "description": "Fluids administered directly into the bloodstream to treat severe dehydration.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 10
+        }
+      ]
+    },
+    {
+      "id": "Norfloxacin",
+      "description": "An antibiotic used to treat infections in areas resistant to tetracycline.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "Ciprofloxacin",
+      "description": "An antibiotic used to treat infections in areas resistant to tetracycline.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "Erythromycin",
+      "description": "An antibiotic used to treat infections in areas resistant to tetracycline and in pregnant women and children.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "Furazolidone",
+      "description": "An antibiotic used to treat infections in children and pregnant women.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "Co-trimoxazole",
+      "description": "An antibiotic used to treat infections in children and pregnant women.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 11
+        }
+      ]
+    },
+    {
+      "id": "Contact with Cholera",
+      "description": "Exposure to individuals or environments with cholera",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Epidemic Area",
+      "description": "A region where cholera is prevalent and can spread easily",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Blood Group O",
+      "description": "A blood type associated with increased risk of severe cholera",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Breastfeeding",
+      "description": "Feeding infants with mother's milk, which can prevent and reduce the severity of cholera",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "สุขอนามัยพื้นฐาน",
+      "description": "การรักษาความสะอาดส่วนตัวและสภาพแวดล้อม",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "น้ำสะอาด",
+      "description": "น้ำที่ได้รับการฆ่าเชื้อหรือต้มสุกแล้ว",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "อาหารปรุงสุกใหม่",
+      "description": "อาหารที่ปรุงสุกและบริโภคทันที",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "แมลงวัน",
+      "description": "พาหะของโรคติดเชื้อในทางเดินอาหาร",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "การล้างมือ",
+      "description": "การล้างมือด้วยน้ำและสบู่เพื่อป้องกันการติดเชื้อ",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "ส้วมที่ถูกสุขลักษณะ",
+      "description": "ส้วมที่มีการจัดสร้างตามหลักสุขาภิบาล",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "การสัมผัสผู้ป่วย",
+      "description": "การสัมผัสผู้ป่วยที่เป็นอหิวาตกโรค",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "Oral Cholera Vaccine",
+      "description": "A vaccine taken orally to prevent cholera.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "High-Risk Groups",
+      "description": "People with a higher likelihood of contracting cholera, such as children and HIV patients.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "Travelers",
+      "description": "People who travel to areas with cholera outbreaks.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "Medthai",
+      "description": "A website providing accurate and independent health information, including diseases, symptoms, treatments, and more.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 16
+        }
+      ]
+    },
+    {
+      "id": "Health Information",
+      "description": "Information about health care, disease treatment, medication use, herbs, mothers and children, etc.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 16
+        }
+      ]
+    },
+    {
+      "id": "Medical Experts",
+      "description": "Physicians and specialists who collaborate to ensure the accuracy and quality of the information provided.",
+      "documents": [
+        "2"
+      ],
+      "chunks": [
+        {
+          "doc_id": "2",
+          "chunk_id": 16
+        }
+      ]
+    },
+    {
+      "id": "Cataract",
+      "description": "A common eye condition in the elderly",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 0
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 5
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 10
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 17
+        }
+      ]
+    },
+    {
+      "id": "Elderly",
+      "description": "A risk group for cataracts",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 0
+        }
+      ]
+    },
+    {
+      "id": "Lens",
+      "description": "The transparent, biconvex structure in the eye that helps focus light onto the retina.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "Retina",
+      "description": "The light-sensitive layer at the back of the eye that receives and processes visual information.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "Blurred Vision",
+      "description": "A symptom of cataracts where vision becomes foggy or hazy.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "Cornea",
+      "description": "Part of the eye that helps refract light",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "Eye",
+      "description": "Organ of vision",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "Age-related Cataract",
+      "description": "Cataract primarily caused by aging, common in individuals over 60 years old.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Congenital Cataract",
+      "description": "Cataract present at birth, often due to maternal rubella infection, malnutrition, or genetic factors.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Traumatic Cataract",
+      "description": "Cataract resulting from eye injury or severe impact, common in young adults and middle-aged individuals.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Disease-related Cataract",
+      "description": "Cataract associated with chronic diseases such as diabetes, hypertension, thyroid disorders, and skin inflammation.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Medication-induced Cataract",
+      "description": "Cataract caused by prolonged use of certain medications, including weight loss drugs and steroids.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Radiation-induced Cataract",
+      "description": "Cataract resulting from prolonged exposure to radiation or UV light.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Lifestyle-induced Cataract",
+      "description": "Cataract accelerated by smoking and heavy alcohol consumption.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "ตาค่อย ๆ มัวลง",
+      "description": "อาการตามัวที่เกิดขึ้นอย่างช้า ๆ",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "ตาพร่ามัว",
+      "description": "อาการที่ตาไม่สามารถมองเห็นได้ชัดเจน",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "เห็นภาพซ้อน",
+      "description": "อาการที่เห็นภาพซ้อนกัน",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "แสงสว่าง",
+      "description": "แสงที่ทำให้ตาพร่ามัวในที่สว่าง",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "ตาไม่เจ็บปวดหรือตาแดง",
+      "description": "อาการที่ไม่มีการเจ็บปวดหรือตาแดง",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 4
+        }
+      ]
+    },
+    {
+      "id": "Vision Disturbance",
+      "description": "Abnormal vision changes such as seeing spots, light scattering, yellowish vision, double vision, and multiple images.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "Secondary Myopia",
+      "description": "A condition where older individuals develop nearsightedness due to the clouding of the lens.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "Eye Pain",
+      "description": "Pain in the eye, which can occur in severe cases of cataracts.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "ตาพร่า",
+      "description": "อาการที่การมองเห็นไม่ชัดเจน",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 6
+        }
+      ]
+    },
+    {
+      "id": "เบาหวาน",
+      "description": "โรคที่อาจเป็นสาเหตุของต้อกระจก",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 6
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 8
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 9
+        }
+      ]
+    },
+    {
+      "id": "ตาบอดสนิท",
+      "description": "การสูญเสียการมองเห็นอย่างสมบูรณ์",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "ปวดตา",
+      "description": "อาการปวดที่เกิดขึ้นในตา",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 7
+        }
+      ]
+    },
+    {
+      "id": "การผ่าตัดต้อกระจก",
+      "description": "วิธีการรักษาต้อกระจกโดยการเอาแก้วตาที่ขุ่นออก",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 8
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 12
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "ยาหยอดตา",
+      "description": "ยาที่อ้างว่าสามารถช่วยชะลอต้อกระจก แต่ยังไม่ได้รับการพิสูจน์",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "แว่นสายตา",
+      "description": "อุปกรณ์ช่วยสายตาที่สามารถใช้ในกรณีที่ต้อกระจกยังไม่รุนแรง",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "ต้อสุกมาก",
+      "description": "ภาวะที่ต้อกระจกสุกมากจนการผ่าตัดอาจส่งผลร้ายแรง",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "ตาดำผิดปกติ",
+      "description": "ภาวะที่ม่านตาขยายไม่ได้เต็มที่ ทำให้การผ่าตัดต้อกระจกยาก",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "เนื้อเยื่อยึดแก้วตาอ่อนแอ",
+      "description": "ภาวะที่เนื้อเยื่อยึดแก้วตาอ่อนแอ อาจทำให้เกิดภาวะแทรกซ้อนรุนแรง",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "ตาประสาทตายังดี",
+      "description": "ประสาทตาที่ยังทำงานได้ดี",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 9
+        }
+      ]
+    },
+    {
+      "id": "ตาประสาทตาเสีย",
+      "description": "ประสาทตาที่เสียหายแล้ว",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 9
+        }
+      ]
+    },
+    {
+      "id": "การผ่าตัด",
+      "description": "การผ่าตัดทางการแพทย์",
+      "documents": [
+        "44",
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 9
+        },
+        {
+          "doc_id": "5555",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "ตากุ้งยิง",
+      "description": "ภาวะตาแห้งหรืออักเสบ",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 9
+        }
+      ]
+    },
+    {
+      "id": "ถุงน้ำตาอักเสบ",
+      "description": "การอักเสบของถุงน้ำตา",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 9
+        }
+      ]
+    },
+    {
+      "id": "ความดันโลหิตสูง",
+      "description": "ภาวะที่ความดันโลหิตอยู่ในระดับสูง",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 9
+        }
+      ]
+    },
+    {
+      "id": "โรคโลหิตจาง",
+      "description": "ภาวะที่เซลล์เม็ดเลือดแดงหรือฮีโมโกลบินต่ำกว่าปกติ",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 9
+        }
+      ]
+    },
+    {
+      "id": "โรคปอด",
+      "description": "โรคที่เกิดขึ้นในระบบทางเดินหายใจ",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 9
+        }
+      ]
+    },
+    {
+      "id": "การควบคุมเบาหวาน",
+      "description": "การจัดการและควบคุมระดับน้ำตาลในเลือด",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 9
+        }
+      ]
+    },
+    {
+      "id": "Phacoemulsification",
+      "description": "A surgical technique using high-frequency ultrasound to break up and remove the cataract.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 10
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Intraocular Lens",
+      "description": "An artificial lens implanted in the eye to replace the natural lens removed during cataract surgery.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 10
+        }
+      ]
+    },
+    {
+      "id": "Accommodation",
+      "description": "The ability of the eye to change its focus from distant to near objects.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 10
+        }
+      ]
+    },
+    {
+      "id": "ยาสลบ",
+      "description": "ยาที่ใช้ในการทำให้ผู้ป่วยสลบหรือไม่รู้สึกเจ็บปวดระหว่างการผ่าตัด",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "ยาชาเฉพาะที่",
+      "description": "ยาที่ใช้ทำให้บริเวณเฉพาะที่ไม่รู้สึกเจ็บปวด",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "เลนส์แก้วตาเทียม",
+      "description": "อุปกรณ์ที่ใช้แทนเลนส์แก้วตาที่ถูกสลายออกในการผ่าตัดต้อกระจก",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 12
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 13
+        },
+        {
+          "doc_id": "44",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "Femtosecond laser",
+      "description": "เทคโนโลยีเลเซอร์ที่ใช้ในการผ่าตัดต้อกระจกเพื่อเพิ่มความแม่นยำและลดการบอบช้ำของดวงตา",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "การผ่าต้อกระจก",
+      "description": "การรักษาต้อกระจกด้วยการผ่าตัด",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "เลือดออกในวุ้นลูกตา",
+      "description": "ภาวะที่มีเลือดออกภายในลูกตา",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "ประสาทตาเสื่อม",
+      "description": "ภาวะที่ประสาทตาเสื่อมทำให้มองเห็นไม่ชัดหรือตาบอด",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "ตามัว",
+      "description": "อาการที่อาจเกิดขึ้นหลังการผ่าตัดต้อกระจกจากสาเหตุอื่น ๆ",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "จอตาเสื่อม",
+      "description": "สาเหตุหนึ่งที่ทำให้เกิดตามัวหลังการผ่าตัดต้อกระจก",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "ถุงหุ้มเลนส์ขุ่น",
+      "description": "สาเหตุหนึ่งที่ทำให้เกิดตามัวหลังการผ่าตัดต้อกระจก",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "ยาสเตียรอยด์",
+      "description": "ยาที่อาจเพิ่มความเสี่ยงในการเกิดต้อกระจกเมื่อใช้เป็นเวลานาน",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 15
+        }
+      ]
+    },
+    {
+      "id": "อุบัติเหตุตา",
+      "description": "การกระทบกระแทกที่ตาซึ่งอาจเพิ่มความเสี่ยงในการเกิดต้อกระจก",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 15
+        }
+      ]
+    },
+    {
+      "id": "แสงแดด",
+      "description": "แสงอัลตราไวโอเลตจากแสงแดดที่อาจเพิ่มความเสี่ยงในการเกิดต้อกระจก",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 15
+        }
+      ]
+    },
+    {
+      "id": "การสูบบุหรี่",
+      "description": "พฤติกรรมที่เพิ่มความเสี่ยงในการเกิดต้อกระจก",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 15
+        }
+      ]
+    },
+    {
+      "id": "การดื่มแอลกอฮอล์",
+      "description": "พฤติกรรมที่เพิ่มความเสี่ยงในการเกิดต้อกระจก",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 15
+        }
+      ]
+    },
+    {
+      "id": "การตรวจสุขภาพตา",
+      "description": "การตรวจสุขภาพตาเป็นประจำเพื่อป้องกันและตรวจพบต้อกระจกในระยะเริ่มต้น",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 15
+        }
+      ]
+    },
+    {
+      "id": "Glaucoma",
+      "description": "A condition that can damage the optic nerve and lead to vision loss.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 16
+        }
+      ]
+    },
+    {
+      "id": "Pinguecula",
+      "description": "A yellowish, thickened lesion on the conjunctiva of the eye.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 16
+        }
+      ]
+    },
+    {
+      "id": "Pterygium",
+      "description": "A growth of fleshy tissue on the conjunctiva that can extend onto the cornea.",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 16
+        }
+      ]
+    },
+    {
+      "id": "สุขภาพดวงตา",
+      "description": "หมวดหมู่ข้อมูลเกี่ยวกับสุขภาพดวงตา",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 18
+        }
+      ]
+    },
+    {
+      "id": "สุขภาพผู้สูงอายุ",
+      "description": "หมวดหมู่ข้อมูลเกี่ยวกับสุขภาพผู้สูงอายุ",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 18
+        }
+      ]
+    },
+    {
+      "id": "โรคตา",
+      "description": "หมวดหมู่ข้อมูลเกี่ยวกับโรคตา",
+      "documents": [
+        "44"
+      ],
+      "chunks": [
+        {
+          "doc_id": "44",
+          "chunk_id": 18
+        }
+      ]
+    },
+    {
+      "id": "GERD",
+      "description": "Gastroesophageal reflux disease, a condition where stomach acid flows back into the esophagus.",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 0
+        },
+        {
+          "doc_id": "5555",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "5555",
+          "chunk_id": 15
+        }
+      ]
+    },
+    {
+      "id": "Heartburn",
+      "description": "A burning sensation in the chest caused by stomach acid flowing back into the esophagus.",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "5555",
+          "chunk_id": 6
+        }
+      ]
+    },
+    {
+      "id": "Esophagitis",
+      "description": "Inflammation of the esophagus, often caused by stomach acid reflux.",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 1
+        }
+      ]
+    },
+    {
+      "id": "Dyspepsia",
+      "description": "A term used to describe symptoms of indigestion, including heartburn and acid reflux.",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 1
+        },
+        {
+          "doc_id": "5555",
+          "chunk_id": 14
+        }
+      ]
+    },
+    {
+      "id": "กรดไหลย้อน",
+      "description": "ภาวะที่น้ำย่อยในกระเพาะอาหารไหลย้อนขึ้นไปที่หลอดอาหารและลำคอ",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 2
+        },
+        {
+          "doc_id": "5555",
+          "chunk_id": 8
+        },
+        {
+          "doc_id": "5555",
+          "chunk_id": 12
+        },
+        {
+          "doc_id": "5555",
+          "chunk_id": 16
+        }
+      ]
+    },
+    {
+      "id": "หูรูดส่วนล่างของหลอดอาหาร (LES)",
+      "description": "กล้ามเนื้อที่ควบคุมการเปิดปิดระหว่างหลอดอาหารและกระเพาะอาหาร",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "ภาวะหย่อนสมรรถภาพของ LES",
+      "description": "ภาวะที่หูรูดส่วนล่างของหลอดอาหารปิดไม่สนิท",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "น้ำย่อย",
+      "description": "ของเหลวในกระเพาะอาหารที่มีฤทธิ์เป็นกรด",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "อาการไม่สบาย",
+      "description": "อาการที่เกิดจากการระคายเคืองของเยื่อบุหลอดอาหารและลำคอ",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 2
+        }
+      ]
+    },
+    {
+      "id": "Lower Esophageal Sphincter",
+      "description": "A muscular ring at the lower end of the esophagus that controls the passage of food into the stomach.",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Acid Reflux",
+      "description": "A condition where stomach acid flows back up into the esophagus, causing heartburn and other symptoms.",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 3
+        },
+        {
+          "doc_id": "5555",
+          "chunk_id": 6
+        }
+      ]
+    },
+    {
+      "id": "Gastroesophageal Reflux Disease (GERD)",
+      "description": "A chronic condition where acid from the stomach frequently flows back into the esophagus, causing symptoms and complications.",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Age-Related Degeneration",
+      "description": "The natural decline in the function of body tissues, including the lower esophageal sphincter, as a person ages.",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Infant Sphincter Underdevelopment",
+      "description": "A condition where the lower esophageal sphincter in infants is not fully developed, leading to weak function.",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Increased Gastric Pressure",
+      "description": "Elevated pressure within the stomach that can force the lower esophageal sphincter to open, allowing stomach contents to flow back into the esophagus.",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Delayed Gastric Emptying",
+      "description": "A condition where the stomach takes longer to empty its contents, leading to prolonged exposure of the esophagus to stomach acid.",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "Hiatal Hernia",
+      "description": "A condition where part of the stomach pushes up through the diaphragm, potentially contributing to acid reflux.",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 3
+        }
+      ]
+    },
+    {
+      "id": "กล้ามเนื้อและเนื้อเยื่อ",
+      "description": "กล้ามเนื้อและเนื้อเยื่อต่าง ๆ ที่มีประสิทธิภาพในการทำงานน้อยลง",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "หลอดอาหาร",
+      "description": "ส่วนของระบบทางเดินอาหารที่มีประสิทธิภาพในการทำงานน้อยลง",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "กระเพาะอาหาร",
+      "description": "ส่วนของระบบทางเดินอาหารที่มีประสิทธิภาพในการทำงานน้อยลง",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 5
+        }
+      ]
+    },
+    {
+      "id": "Dysphagia",
+      "description": "อาการกลืนอาหารลำบากเนื่องจากหลอดอาหารตีบตัน",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 6
+        }
+      ]
+    },
+    {
+      "id": "Infant Acid Reflux",
+      "description": "ภาวะกรดไหลย้อนในทารกที่อาจมีอาการต่างๆ เช่น อาเจียนบ่อย, ไอ, เสียงแหบ",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 6
+        }
+      ]
+    },
+    {
+      "id": "Pneumonia",
+      "description": "ภาวะปอดอักเสบที่อาจเกิดจากการสำลักน้ำย่อยเข้าปอดในทารก",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 6
+        }
+      ]
+    },
+    {
+      "id": "แผลเพ็ปติก",
+      "description": "แผลที่เกิดขึ้นในกระเพาะอาหารหรือลำไส้เล็กส่วนต้น",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "มะเร็งกระเพาะอาหาร",
+      "description": "มะเร็งที่เกิดขึ้นในกระเพาะอาหาร",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "หลอดอาหารบาร์เรตต์",
+      "description": "ภาวะที่เยื่อบุหลอดอาหารเปลี่ยนแปลงไปเป็นเยื่อที่คล้ายกับเยื่อบุลำไส้เล็ก",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "เสียงแหบ",
+      "description": "อาการที่เสียงเปลี่ยนไปจากปกติ มักเกิดจากความผิดปกติของกล่องเสียง",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "เจ็บคอ",
+      "description": "อาการที่มีความเจ็บปวดในลำคอ",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "ไอเรื้อรัง",
+      "description": "อาการไอที่เกิดขึ้นอย่างต่อเนื่องเป็นเวลานาน",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "หอบหืด",
+      "description": "อาการหายใจลำบาก มักเกิดจากภาวะอักเสบของหลอดลม",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 8
+        }
+      ]
+    },
+    {
+      "id": "ลูกยอ",
+      "description": "ผลไม้ที่ใช้ในการทำยาสำหรับรักษาอาการกรดไหลย้อน",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "หัวหญ้าแห้วหมู",
+      "description": "ส่วนหัวใต้ดินของพืชที่ใช้ในการทำยาสำหรับรักษาอาการกรดไหลย้อน",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Scopoletin",
+      "description": "สารที่มีฤทธิ์ต้านการอักเสบและต้านการหลั่งของกรด",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Ranitidine",
+      "description": "ยาที่ใช้ในการรักษาอาการกรดไหลย้อน",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "Lansoprazole",
+      "description": "ยาที่ใช้ในการรักษาอาการกรดไหลย้อน",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "หญ้าลิ้นงู",
+      "description": "พืชที่ใช้ในการบรรเทาอาการปวดแสบปวดร้อนที่หน้าอกจากกรดไหลย้อน",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "ว่านกาบหอย",
+      "description": "พืชที่ใช้ในการรักษาอาการกรดไหลย้อน",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "ย่านาง",
+      "description": "พืชที่มีน้ำใบสดใช้ในการรักษาอาการกรดไหลย้อน",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 12
+        }
+      ]
+    },
+    {
+      "id": "โรคกรดไหลย้อน",
+      "description": "โรคเรื้อรังที่ส่งผลต่อคุณภาพชีวิตค่อนข้างมาก",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "การรักษา",
+      "description": "การรักษาช่วยให้โรคสงบได้นานและชะลอหรือลดความรุนแรงของโรค",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "การปรับเปลี่ยนพฤติกรรม",
+      "description": "การปรับเปลี่ยนพฤติกรรมการกินและการใช้ชีวิตเพื่อควบคุมโรค",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "การรักษาด้วยยา",
+      "description": "การรักษาด้วยยาเพื่อควบคุมโรคกรดไหลย้อน",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 13
+        }
+      ]
+    },
+    {
+      "id": "Medical Advice",
+      "description": "Information provided for educational purposes, not for medical diagnosis or treatment",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 17
+        }
+      ]
+    },
+    {
+      "id": "Symptoms",
+      "description": "Indications of illness or disease",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 17
+        }
+      ]
+    },
+    {
+      "id": "Physician Consultation",
+      "description": "Seeking medical advice from a doctor",
+      "documents": [
+        "5555"
+      ],
+      "chunks": [
+        {
+          "doc_id": "5555",
+          "chunk_id": 17
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "German Measles",
+      "target": "Rubella Virus",
+      "relationship": "caused by",
+      "description": "German Measles is caused by the Rubella virus.",
+      "doc_id": "1",
+      "chunk_id": 1
+    },
+    {
+      "source": "German Measles",
+      "target": "Fever and Rash",
+      "relationship": "presents with",
+      "description": "Common symptoms of German Measles include fever and rash.",
+      "doc_id": "1",
+      "chunk_id": 1
+    },
+    {
+      "source": "German Measles",
+      "target": "Pregnant Women",
+      "relationship": "affects",
+      "description": "Pregnant women are at risk of severe complications from German Measles.",
+      "doc_id": "1",
+      "chunk_id": 1
+    },
+    {
+      "source": "German Measles",
+      "target": "Fetal Abnormalities",
+      "relationship": "causes",
+      "description": "Infection during the first trimester can lead to fetal abnormalities, miscarriage, or stillbirth.",
+      "doc_id": "1",
+      "chunk_id": 1
+    },
+    {
+      "source": "German Measles",
+      "target": "Immunity",
+      "relationship": "results in",
+      "description": "Infection with German Measles typically results in long-lasting immunity.",
+      "doc_id": "1",
+      "chunk_id": 1
+    },
+    {
+      "source": "German Measles",
+      "target": "15-24 Years",
+      "relationship": "most common in",
+      "description": "The highest incidence of German Measles is found in the 15-24 age group.",
+      "doc_id": "1",
+      "chunk_id": 1
+    },
+    {
+      "source": "German Measles",
+      "target": "Close Contact",
+      "relationship": "transmitted through",
+      "description": "German Measles can be transmitted through close contact with infected individuals.",
+      "doc_id": "1",
+      "chunk_id": 1
+    },
+    {
+      "source": "Rubella virus",
+      "target": "German measles",
+      "relationship": "causes",
+      "description": "The Rubella virus is the causative agent of German measles.",
+      "doc_id": "1",
+      "chunk_id": 3
+    },
+    {
+      "source": "Rubella virus",
+      "target": "Togaviridae",
+      "relationship": "belongs to",
+      "description": "The Rubella virus is a member of the Togaviridae family of viruses.",
+      "doc_id": "1",
+      "chunk_id": 3
+    },
+    {
+      "source": "German measles",
+      "target": "Respiratory droplets",
+      "relationship": "transmitted by",
+      "description": "German measles can be transmitted through respiratory droplets from an infected person.",
+      "doc_id": "1",
+      "chunk_id": 3
+    },
+    {
+      "source": "German measles",
+      "target": "Contact transmission",
+      "relationship": "transmitted by",
+      "description": "German measles can also be transmitted through direct contact with contaminated surfaces or objects.",
+      "doc_id": "1",
+      "chunk_id": 3
+    },
+    {
+      "source": "German measles",
+      "target": "Incubation period",
+      "relationship": "has incubation period",
+      "description": "The incubation period for German measles is typically 12-24 days.",
+      "doc_id": "1",
+      "chunk_id": 3
+    },
+    {
+      "source": "German measles",
+      "target": "Contagious period",
+      "relationship": "has contagious period",
+      "description": "The contagious period for German measles is from 5-7 days before the rash appears to 6-14 days after the rash appears.",
+      "doc_id": "1",
+      "chunk_id": 3
+    },
+    {
+      "source": "German Measles",
+      "target": "Rash",
+      "relationship": "causes",
+      "description": "German Measles can cause a characteristic rash that starts on the face and spreads down the body.",
+      "doc_id": "1",
+      "chunk_id": 4
+    },
+    {
+      "source": "German Measles",
+      "target": "Fever",
+      "relationship": "causes",
+      "description": "German Measles often results in a low to moderate fever in the pre-rash stage.",
+      "doc_id": "1",
+      "chunk_id": 4
+    },
+    {
+      "source": "German Measles",
+      "target": "Headache",
+      "relationship": "causes",
+      "description": "Headache is a common symptom in the pre-rash stage of German Measles.",
+      "doc_id": "1",
+      "chunk_id": 4
+    },
+    {
+      "source": "German Measles",
+      "target": "Conjunctivitis",
+      "relationship": "causes",
+      "description": "Conjunctivitis can occur in the pre-rash stage of German Measles.",
+      "doc_id": "1",
+      "chunk_id": 4
+    },
+    {
+      "source": "German Measles",
+      "target": "Lymphadenopathy",
+      "relationship": "causes",
+      "description": "Swollen lymph nodes are a common symptom in the pre-rash stage of German Measles.",
+      "doc_id": "1",
+      "chunk_id": 4
+    },
+    {
+      "source": "German Measles",
+      "target": "Forchheimer Spots",
+      "relationship": "causes",
+      "description": "Forchheimer spots can appear in the pre-rash stage of German Measles.",
+      "doc_id": "1",
+      "chunk_id": 4
+    },
+    {
+      "source": "German Measles",
+      "target": "Congenital Rubella Syndrome",
+      "relationship": "causes",
+      "description": "Infection during pregnancy can lead to Congenital Rubella Syndrome in the fetus.",
+      "doc_id": "1",
+      "chunk_id": 4
+    },
+    {
+      "source": "Congenital Rubella Syndrome",
+      "target": "Hearing Loss",
+      "relationship": "causes",
+      "description": "Hearing loss is a common complication of Congenital Rubella Syndrome.",
+      "doc_id": "1",
+      "chunk_id": 4
+    },
+    {
+      "source": "ทารกในครรภ์",
+      "target": "ทางรก",
+      "relationship": "ติดเชื้อจาก",
+      "description": "ทารกในครรภ์สามารถติดเชื้อผ่านทางรก",
+      "doc_id": "1",
+      "chunk_id": 5
+    },
+    {
+      "source": "ทารกในครรภ์",
+      "target": "ความพิการ",
+      "relationship": "มีความเสี่ยงต่อ",
+      "description": "ทารกในครรภ์ที่ติดเชื้ออาจเกิดความพิการตามมา",
+      "doc_id": "1",
+      "chunk_id": 5
+    },
+    {
+      "source": "ความพิการ",
+      "target": "หูหนวก",
+      "relationship": "รวมถึง",
+      "description": "ความพิการที่อาจเกิดขึ้นในทารกในครรภ์รวมถึงภาวะหูหนวก",
+      "doc_id": "1",
+      "chunk_id": 5
+    },
+    {
+      "source": "ความพิการ",
+      "target": "หัวใจพิการ",
+      "relationship": "รวมถึง",
+      "description": "ความพิการที่อาจเกิดขึ้นในทารกในครรภ์รวมถึงภาวะหัวใจพิการ",
+      "doc_id": "1",
+      "chunk_id": 5
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "ตาทั้งสองข้าง",
+      "relationship": "เกิดกับ",
+      "description": "ต้อกระจกมักจะเกิดกับตาทั้งสองข้างสูงถึง 80%",
+      "doc_id": "1",
+      "chunk_id": 6
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "จอตามีเม็ดสีผิดปกติ",
+      "relationship": "ทำให้เกิด",
+      "description": "ต้อกระจกอาจทำให้จอตามีเม็ดสีผิดปกติ",
+      "doc_id": "1",
+      "chunk_id": 6
+    },
+    {
+      "source": "German Measles",
+      "target": "Complications",
+      "relationship": "rarely causes",
+      "description": "German Measles rarely leads to complications.",
+      "doc_id": "1",
+      "chunk_id": 7
+    },
+    {
+      "source": "German Measles",
+      "target": "Bacterial Infection",
+      "relationship": "rarely causes",
+      "description": "German Measles rarely leads to secondary bacterial infections.",
+      "doc_id": "1",
+      "chunk_id": 7
+    },
+    {
+      "source": "โรคหัดเยอรมัน",
+      "target": "ข้ออักเสบ",
+      "relationship": "อาจทำให้เกิด",
+      "description": "ข้ออักเสบเป็นภาวะแทรกซ้อนที่พบได้บ่อยในโรคหัดเยอรมัน",
+      "doc_id": "1",
+      "chunk_id": 8
+    },
+    {
+      "source": "โรคหัดเยอรมัน",
+      "target": "สมองอักเสบ",
+      "relationship": "อาจทำให้เกิด",
+      "description": "สมองอักเสบเป็นภาวะแทรกซ้อนที่พบได้ไม่บ่อยในโรคหัดเยอรมัน",
+      "doc_id": "1",
+      "chunk_id": 8
+    },
+    {
+      "source": "โรคหัดเยอรมัน",
+      "target": "เลือดออกง่ายผิดปกติ",
+      "relationship": "อาจทำให้เกิด",
+      "description": "เลือดออกง่ายผิดปกติเป็นภาวะแทรกซ้อนที่เกิดจากเกล็ดเลือดต่ำในโรคหัดเยอรมัน",
+      "doc_id": "1",
+      "chunk_id": 8
+    },
+    {
+      "source": "โรคหัดเยอรมัน",
+      "target": "เยื่อบุหัวใจหรือกล้ามเนื้อหัวใจอักเสบ",
+      "relationship": "อาจทำให้เกิด",
+      "description": "เยื่อบุหัวใจหรือกล้ามเนื้อหัวใจอักเสบเป็นภาวะแทรกซ้อนที่อาจเกิดขึ้นในโรคหัดเยอรมัน",
+      "doc_id": "1",
+      "chunk_id": 8
+    },
+    {
+      "source": "โรคหัดเยอรมัน",
+      "target": "ประสาทตาอักเสบ",
+      "relationship": "อาจทำให้เกิด",
+      "description": "ประสาทตาอักเสบเป็นภาวะแทรกซ้อนที่อาจเกิดขึ้นในโรคหัดเยอรมัน",
+      "doc_id": "1",
+      "chunk_id": 8
+    },
+    {
+      "source": "โรคหัดเยอรมัน",
+      "target": "ไขสันหลังอักเสบ",
+      "relationship": "อาจทำให้เกิด",
+      "description": "ไขสันหลังอักเสบเป็นภาวะแทรกซ้อนที่อาจเกิดขึ้นในโรคหัดเยอรมัน",
+      "doc_id": "1",
+      "chunk_id": 8
+    },
+    {
+      "source": "โรคหัดเยอรมัน",
+      "target": "ตับอักเสบ",
+      "relationship": "อาจทำให้เกิด",
+      "description": "ตับอักเสบเป็นภาวะแทรกซ้อนที่อาจเกิดขึ้นในโรคหัดเยอรมัน",
+      "doc_id": "1",
+      "chunk_id": 8
+    },
+    {
+      "source": "ภาวะแทรกซ้อน",
+      "target": "หญิงตั้งครรภ์",
+      "relationship": "can occur in",
+      "description": "Complications can occur in pregnant women",
+      "doc_id": "1",
+      "chunk_id": 9
+    },
+    {
+      "source": "หัดเยอรมัน",
+      "target": "IgM antibody",
+      "relationship": "วินิจฉัยโดย",
+      "description": "การตรวจหา IgM antibody ใช้ในการวินิจฉัยหัดเยอรมัน",
+      "doc_id": "1",
+      "chunk_id": 11
+    },
+    {
+      "source": "หัดเยอรมัน",
+      "target": "IgG antibody",
+      "relationship": "วินิจฉัยโดย",
+      "description": "การตรวจหา IgG antibody ใช้ในการวินิจฉัยหัดเยอรมัน",
+      "doc_id": "1",
+      "chunk_id": 11
+    },
+    {
+      "source": "หัดเยอรมัน",
+      "target": "CBC (Complete Blood Count)",
+      "relationship": "ตรวจพบใน",
+      "description": "การตรวจ CBC พบภาวะเม็ดเลือดขาวและเกล็ดเลือดต่ำในผู้ป่วยหัดเยอรมัน",
+      "doc_id": "1",
+      "chunk_id": 11
+    },
+    {
+      "source": "ทารกที่ผิดปกติ",
+      "target": "การแยกเชื้อไวรัส",
+      "relationship": "วินิจฉัยโดย",
+      "description": "การแยกเชื้อไวรัสจากการเพาะเลี้ยงเซลล์ใช้ในการวินิจฉัยทารกที่ผิดปกติ",
+      "doc_id": "1",
+      "chunk_id": 11
+    },
+    {
+      "source": "ทารกที่ผิดปกติ",
+      "target": "Antigens",
+      "relationship": "วินิจฉัยโดย",
+      "description": "การตรวจหา Antigens ใช้ในการวินิจฉัยทารกที่ผิดปกติ",
+      "doc_id": "1",
+      "chunk_id": 11
+    },
+    {
+      "source": "German Measles",
+      "target": "Pink Rash",
+      "relationship": "causes",
+      "description": "German Measles causes a characteristic pink rash that spreads over the body.",
+      "doc_id": "1",
+      "chunk_id": 12
+    },
+    {
+      "source": "German Measles",
+      "target": "Low-grade Fever",
+      "relationship": "causes",
+      "description": "German Measles can cause a low-grade fever.",
+      "doc_id": "1",
+      "chunk_id": 12
+    },
+    {
+      "source": "German Measles",
+      "target": "Red Spots",
+      "relationship": "causes",
+      "description": "German Measles can cause small red spots on the soft palate of the mouth.",
+      "doc_id": "1",
+      "chunk_id": 12
+    },
+    {
+      "source": "German Measles",
+      "target": "Swollen Lymph Nodes",
+      "relationship": "causes",
+      "description": "German Measles can cause enlarged lymph nodes that can be felt behind the ears, at the back of the neck, and on both sides of the neck.",
+      "doc_id": "1",
+      "chunk_id": 12
+    },
+    {
+      "source": "German Measles",
+      "target": "Red Eyes",
+      "relationship": "causes",
+      "description": "German Measles can cause mild redness in the eyes.",
+      "doc_id": "1",
+      "chunk_id": 12
+    },
+    {
+      "source": "หวัด",
+      "target": "หัด",
+      "relationship": "มีอาการคล้ายกับ",
+      "description": "อาการในระยะแรกของหัดคล้ายกับหวัด",
+      "doc_id": "1",
+      "chunk_id": 13
+    },
+    {
+      "source": "หัด",
+      "target": "ไข้เลือดออก",
+      "relationship": "มีอาการต่างจาก",
+      "description": "หัดมีผื่นแดงที่เริ่มจากชายผมและซอกคอ แต่ไข้เลือดออกมีผื่นแดงที่ลำตัวและแขนขา",
+      "doc_id": "1",
+      "chunk_id": 13
+    },
+    {
+      "source": "หัด",
+      "target": "สาไข้",
+      "relationship": "มีอาการต่างจาก",
+      "description": "หัดมีผื่นแดงที่เริ่มจากชายผมและซอกคอ แต่สาไข้มีผื่นแดงที่ขึ้นหลังไข้ลด",
+      "doc_id": "1",
+      "chunk_id": 13
+    },
+    {
+      "source": "ไข้เลือดออก",
+      "target": "สาไข้",
+      "relationship": "มีอาการต่างจาก",
+      "description": "ไข้เลือดออกมีจุดเลือดออกเล็ก ๆ แต่สาไข้ไม่มีอาการนี้",
+      "doc_id": "1",
+      "chunk_id": 13
+    },
+    {
+      "source": "ผื่นจากยา",
+      "target": "ยาปฏิชีวนะ",
+      "relationship": "อาจเกิดขึ้นหลังการรับประทานยา",
+      "description": "ผื่นจากยาอาจเกิดขึ้นหลังการรับประทานยาปฏิชีวนะ",
+      "doc_id": "1",
+      "chunk_id": 13
+    },
+    {
+      "source": "German Measles",
+      "target": "Paracetamol",
+      "relationship": "treated with",
+      "description": "Paracetamol is used to reduce fever in patients with German Measles.",
+      "doc_id": "1",
+      "chunk_id": 14
+    },
+    {
+      "source": "German Measles",
+      "target": "Reye's Syndrome",
+      "relationship": "can cause",
+      "description": "Using aspirin in patients under 19 years old with German Measles can increase the risk of Reye's Syndrome.",
+      "doc_id": "1",
+      "chunk_id": 14
+    },
+    {
+      "source": "German Measles",
+      "target": "Calamine Lotion",
+      "relationship": "treated with",
+      "description": "Calamine Lotion is used to relieve itching in patients with German Measles.",
+      "doc_id": "1",
+      "chunk_id": 14
+    },
+    {
+      "source": "German Measles",
+      "target": "NSAIDs",
+      "relationship": "treated with",
+      "description": "NSAIDs are used to treat joint inflammation in patients with German Measles.",
+      "doc_id": "1",
+      "chunk_id": 14
+    },
+    {
+      "source": "German Measles",
+      "target": "Encephalitis",
+      "relationship": "can cause",
+      "description": "German Measles can lead to encephalitis, a serious complication.",
+      "doc_id": "1",
+      "chunk_id": 14
+    },
+    {
+      "source": "German Measles",
+      "target": "Myocarditis",
+      "relationship": "can cause",
+      "description": "German Measles can lead to myocarditis, a serious complication.",
+      "doc_id": "1",
+      "chunk_id": 14
+    },
+    {
+      "source": "German Measles",
+      "target": "Meningitis",
+      "relationship": "can cause",
+      "description": "German Measles can lead to meningitis, a serious complication.",
+      "doc_id": "1",
+      "chunk_id": 14
+    },
+    {
+      "source": "German Measles",
+      "target": "Immunoglobulin",
+      "relationship": "treated with",
+      "description": "Immunoglobulin can be used to reduce the severity of German Measles in pregnant women.",
+      "doc_id": "1",
+      "chunk_id": 14
+    },
+    {
+      "source": "German Measles",
+      "target": "Congenital Rubella Syndrome",
+      "relationship": "can cause",
+      "description": "German Measles in pregnant women can lead to congenital rubella syndrome in the fetus.",
+      "doc_id": "1",
+      "chunk_id": 14
+    },
+    {
+      "source": "หัวใจพิการ",
+      "target": "การผ่าตัด",
+      "relationship": "ต้องการ",
+      "description": "หัวใจพิการต้องการการผ่าตัดเพื่อรักษา",
+      "doc_id": "1",
+      "chunk_id": 15
+    },
+    {
+      "source": "ต้อหิน",
+      "target": "การผ่าตัด",
+      "relationship": "ต้องการ",
+      "description": "ต้อหินต้องการการผ่าตัดเพื่อรักษา",
+      "doc_id": "1",
+      "chunk_id": 15
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "การผ่าตัด",
+      "relationship": "ต้องการ",
+      "description": "ต้อกระจกต้องการการผ่าตัดเพื่อรักษา",
+      "doc_id": "1",
+      "chunk_id": 15
+    },
+    {
+      "source": "ภาวะตัวเหลือง",
+      "target": "การอาบแสงยูวี",
+      "relationship": "รักษาด้วย",
+      "description": "ภาวะตัวเหลืองรักษาด้วยการอาบแสงยูวี",
+      "doc_id": "1",
+      "chunk_id": 15
+    },
+    {
+      "source": "หินปูนในสมอง",
+      "target": "การรักษา",
+      "relationship": "ไม่สามารถรักษาได้",
+      "description": "หินปูนในสมองไม่สามารถรักษาได้",
+      "doc_id": "1",
+      "chunk_id": 15
+    },
+    {
+      "source": "German Measles",
+      "target": "Isolation",
+      "relationship": "requires",
+      "description": "Patients with German Measles should isolate to prevent the spread of the virus.",
+      "doc_id": "1",
+      "chunk_id": 16
+    },
+    {
+      "source": "German Measles",
+      "target": "Hydration",
+      "relationship": "benefits from",
+      "description": "Patients with German Measles are advised to drink plenty of fluids.",
+      "doc_id": "1",
+      "chunk_id": 16
+    },
+    {
+      "source": "German Measles",
+      "target": "Immunity",
+      "relationship": "leads to",
+      "description": "People who have had German Measles or received the vaccine usually develop lifelong immunity.",
+      "doc_id": "1",
+      "chunk_id": 16
+    },
+    {
+      "source": "หัดเยอรมัน",
+      "target": "การตั้งครรภ์",
+      "relationship": "สามารถส่งผ่าน",
+      "description": "หัดเยอรมันสามารถส่งผ่านจากมารดาสู่ทารกในครรภ์",
+      "doc_id": "1",
+      "chunk_id": 17
+    },
+    {
+      "source": "หัดเยอรมัน",
+      "target": "ปัญหาการได้ยิน",
+      "relationship": "อาจทำให้เกิด",
+      "description": "ทารกที่ติดเชื้อหัดเยอรมันจากมารดาอาจมีปัญหาการได้ยิน",
+      "doc_id": "1",
+      "chunk_id": 17
+    },
+    {
+      "source": "หัดเยอรมัน",
+      "target": "หูหนวก",
+      "relationship": "อาจทำให้เกิด",
+      "description": "ทารกที่ติดเชื้อหัดเยอรมันจากมารดาอาจมีภาวะหูหนวก",
+      "doc_id": "1",
+      "chunk_id": 17
+    },
+    {
+      "source": "หัดเยอรมัน",
+      "target": "สมองอักเสบ",
+      "relationship": "อาจทำให้เกิด",
+      "description": "หัดเยอรมันอาจทำให้เกิดภาวะสมองอักเสบ",
+      "doc_id": "1",
+      "chunk_id": 17
+    },
+    {
+      "source": "หัดเยอรมัน",
+      "target": "เกล็ดเลือดต่ำ",
+      "relationship": "อาจทำให้เกิด",
+      "description": "หัดเยอรมันอาจทำให้เกิดภาวะเกล็ดเลือดต่ำ",
+      "doc_id": "1",
+      "chunk_id": 17
+    },
+    {
+      "source": "หัดเยอรมัน",
+      "target": "ดีซ่าน",
+      "relationship": "อาจทำให้เกิด",
+      "description": "หัดเยอรมันอาจทำให้เกิดภาวะดีซ่าน",
+      "doc_id": "1",
+      "chunk_id": 17
+    },
+    {
+      "source": "ปลาไหลเผือก",
+      "target": "ไข้เหือดหัด",
+      "relationship": "ใช้รักษา",
+      "description": "ใช้เปลือกลำต้นนำมาต้มเอาน้ำกินเป็นยาแก้ไข้เหือดหัด",
+      "doc_id": "1",
+      "chunk_id": 18
+    },
+    {
+      "source": "ผักหนาม",
+      "target": "อาการคันเนื่องจากพิษหัด เหือด ไข้ออกผื่น",
+      "relationship": "ใช้รักษา",
+      "description": "ใช้ลำต้นนำมาต้มเอาน้ำอาบแก้อาการคันเนื่องจากพิษหัด เหือด ไข้ออกผื่น",
+      "doc_id": "1",
+      "chunk_id": 18
+    },
+    {
+      "source": "เสลดพังพอนตัวเมีย",
+      "target": "หัด เหือด",
+      "relationship": "ใช้รักษา",
+      "description": "ใช้ใบสดนำมาต้มและตำผสมกับน้ำ ใช้ทั้งกินและชโลมทาสำหรับเด็กที่เป็นหัด เหือด",
+      "doc_id": "1",
+      "chunk_id": 18
+    },
+    {
+      "source": "หญ้าแพรก",
+      "target": "ไข้พิษ ไข้กาฬ ไข้หัว เหือดหัด",
+      "relationship": "ใช้รักษา",
+      "description": "ทั้งต้นใช้ต้มกับน้ำกินเป็นยาแก้ไข้พิษ ไข้กาฬ ไข้หัว รวมถึงเหือดหัด",
+      "doc_id": "1",
+      "chunk_id": 18
+    },
+    {
+      "source": "German Measles",
+      "target": "MMR Vaccine",
+      "relationship": "prevented by",
+      "description": "The MMR vaccine protects against German Measles.",
+      "doc_id": "1",
+      "chunk_id": 19
+    },
+    {
+      "source": "Children",
+      "target": "MMR Vaccine",
+      "relationship": "recommended to receive",
+      "description": "Children are advised to receive the MMR vaccine at 9-12 months and 4-6 years.",
+      "doc_id": "1",
+      "chunk_id": 19
+    },
+    {
+      "source": "Teenage Girls",
+      "target": "MMR Vaccine",
+      "relationship": "may need",
+      "description": "Teenage girls who have not been vaccinated may need the MMR vaccine.",
+      "doc_id": "1",
+      "chunk_id": 19
+    },
+    {
+      "source": "Pregnant Women",
+      "target": "MMR Vaccine",
+      "relationship": "should avoid",
+      "description": "Pregnant women should avoid the MMR vaccine and use contraception for 3 months after vaccination.",
+      "doc_id": "1",
+      "chunk_id": 19
+    },
+    {
+      "source": "Outbreak",
+      "target": "Precautions",
+      "relationship": "requires",
+      "description": "During an outbreak, precautions such as avoiding crowded places and using masks are recommended.",
+      "doc_id": "1",
+      "chunk_id": 19
+    },
+    {
+      "source": "Measles",
+      "target": "Fever",
+      "relationship": "has symptoms",
+      "description": "Measles causes fever as one of its symptoms.",
+      "doc_id": "1",
+      "chunk_id": 20
+    },
+    {
+      "source": "Measles",
+      "target": "Rash",
+      "relationship": "has symptoms",
+      "description": "Measles causes a characteristic rash.",
+      "doc_id": "1",
+      "chunk_id": 20
+    },
+    {
+      "source": "Mumps",
+      "target": "Swelling of salivary glands",
+      "relationship": "has symptoms",
+      "description": "Mumps causes swelling of the salivary glands.",
+      "doc_id": "1",
+      "chunk_id": 20
+    },
+    {
+      "source": "German Measles",
+      "target": "Rubella",
+      "relationship": "is also known as",
+      "description": "German Measles and Rubella refer to the same viral infection.",
+      "doc_id": "1",
+      "chunk_id": 21
+    },
+    {
+      "source": "เมดไทย",
+      "target": "โรคหัดเยอรมัน",
+      "relationship": "ให้ข้อมูลเกี่ยวกับ",
+      "description": "เมดไทยให้ข้อมูลเกี่ยวกับโรคหัดเยอรมันในส่วนของโรคระบบทางเดินหายใจ",
+      "doc_id": "1",
+      "chunk_id": 23
+    },
+    {
+      "source": "Cholera",
+      "target": "Vibrio cholerae",
+      "relationship": "caused by",
+      "description": "Cholera is caused by the bacterium Vibrio cholerae.",
+      "doc_id": "2",
+      "chunk_id": 1
+    },
+    {
+      "source": "Cholera",
+      "target": "Diarrhea",
+      "relationship": "symptom",
+      "description": "Watery diarrhea is a primary symptom of cholera.",
+      "doc_id": "2",
+      "chunk_id": 1
+    },
+    {
+      "source": "Cholera",
+      "target": "Vomiting",
+      "relationship": "symptom",
+      "description": "Vomiting is a common symptom of cholera.",
+      "doc_id": "2",
+      "chunk_id": 1
+    },
+    {
+      "source": "Cholera",
+      "target": "Dehydration",
+      "relationship": "complication",
+      "description": "Severe dehydration is a common complication of cholera.",
+      "doc_id": "2",
+      "chunk_id": 1
+    },
+    {
+      "source": "Cholera",
+      "target": "Shock",
+      "relationship": "complication",
+      "description": "Shock can occur due to severe dehydration and can be fatal.",
+      "doc_id": "2",
+      "chunk_id": 1
+    },
+    {
+      "source": "Cholera",
+      "target": "Age Groups",
+      "relationship": "affects",
+      "description": "Cholera affects all age groups but is more common in adults over 15 years old.",
+      "doc_id": "2",
+      "chunk_id": 1
+    },
+    {
+      "source": "Cholera",
+      "target": "Gender",
+      "relationship": "affects",
+      "description": "Both males and females are equally susceptible to cholera.",
+      "doc_id": "2",
+      "chunk_id": 1
+    },
+    {
+      "source": "Cholera",
+      "target": "Hygiene",
+      "relationship": "risk factor",
+      "description": "Poor hygiene and sanitation are significant risk factors for cholera.",
+      "doc_id": "2",
+      "chunk_id": 1
+    },
+    {
+      "source": "Cholera",
+      "target": "Seasonality",
+      "relationship": "occurs",
+      "description": "Cholera outbreaks are more common during the summer, especially after prolonged dry periods.",
+      "doc_id": "2",
+      "chunk_id": 1
+    },
+    {
+      "source": "Cholera",
+      "target": "Geographical Distribution",
+      "relationship": "prevalent in",
+      "description": "Cholera is prevalent in coastal regions of Thailand, Southeast Asia, South Asia, Africa, and Latin America.",
+      "doc_id": "2",
+      "chunk_id": 1
+    },
+    {
+      "source": "Cholera",
+      "target": "Travel",
+      "relationship": "risk factor",
+      "description": "Travel to underdeveloped countries increases the risk of contracting cholera.",
+      "doc_id": "2",
+      "chunk_id": 1
+    },
+    {
+      "source": "Cholera",
+      "target": "Epidemics",
+      "relationship": "causes",
+      "description": "Cholera can cause large-scale outbreaks, especially in crowded and refugee camps.",
+      "doc_id": "2",
+      "chunk_id": 1
+    },
+    {
+      "source": "Vibrio cholerae",
+      "target": "Cholera",
+      "relationship": "causes",
+      "description": "Vibrio cholerae bacteria are the causative agents of cholera.",
+      "doc_id": "2",
+      "chunk_id": 2
+    },
+    {
+      "source": "Vibrio cholerae O1",
+      "target": "Vibrio cholerae",
+      "relationship": "is a",
+      "description": "Vibrio cholerae O1 is a serogroup of Vibrio cholerae.",
+      "doc_id": "2",
+      "chunk_id": 2
+    },
+    {
+      "source": "Vibrio cholerae O139",
+      "target": "Vibrio cholerae",
+      "relationship": "is a",
+      "description": "Vibrio cholerae O139 is a serogroup of Vibrio cholerae.",
+      "doc_id": "2",
+      "chunk_id": 2
+    },
+    {
+      "source": "El Tor biotype",
+      "target": "Vibrio cholerae O1",
+      "relationship": "is a",
+      "description": "El Tor biotype is a subtype of Vibrio cholerae O1.",
+      "doc_id": "2",
+      "chunk_id": 2
+    },
+    {
+      "source": "Classical biotype",
+      "target": "Vibrio cholerae O1",
+      "relationship": "is a",
+      "description": "Classical biotype is a subtype of Vibrio cholerae O1.",
+      "doc_id": "2",
+      "chunk_id": 2
+    },
+    {
+      "source": "Cholera",
+      "target": "Waterborne transmission",
+      "relationship": "transmitted by",
+      "description": "Cholera can be transmitted through contaminated water.",
+      "doc_id": "2",
+      "chunk_id": 2
+    },
+    {
+      "source": "Cholera",
+      "target": "Foodborne transmission",
+      "relationship": "transmitted by",
+      "description": "Cholera can be transmitted through contaminated food.",
+      "doc_id": "2",
+      "chunk_id": 2
+    },
+    {
+      "source": "Cholera",
+      "target": "Fecal-oral route",
+      "relationship": "transmitted by",
+      "description": "Cholera can be transmitted through the fecal-oral route.",
+      "doc_id": "2",
+      "chunk_id": 2
+    },
+    {
+      "source": "Houseflies",
+      "target": "Cholera",
+      "relationship": "act as vectors for",
+      "description": "Houseflies can act as vectors for the transmission of cholera.",
+      "doc_id": "2",
+      "chunk_id": 2
+    },
+    {
+      "source": "เชื้ออหิวาตกโรค",
+      "target": "อหิวาตกโรค",
+      "relationship": "ทำให้เกิด",
+      "description": "เชื้ออหิวาตกโรคเป็นสาเหตุของโรคอหิวาตกโรค",
+      "doc_id": "2",
+      "chunk_id": 3
+    },
+    {
+      "source": "อาหารทะเลดิบ",
+      "target": "เชื้ออหิวาตกโรค",
+      "relationship": "เป็นแหล่งแพร่เชื้อ",
+      "description": "อาหารทะเลดิบสามารถเป็นแหล่งแพร่เชื้ออหิวาตกโรค",
+      "doc_id": "2",
+      "chunk_id": 3
+    },
+    {
+      "source": "น้ำที่มีเชื้อปนเปื้อน",
+      "target": "เชื้ออหิวาตกโรค",
+      "relationship": "เป็นแหล่งแพร่เชื้อ",
+      "description": "น้ำที่มีเชื้อปนเปื้อนสามารถเป็นแหล่งแพร่เชื้ออหิวาตกโรค",
+      "doc_id": "2",
+      "chunk_id": 3
+    },
+    {
+      "source": "การติดต่อจากคนสู่คน",
+      "target": "อหิวาตกโรค",
+      "relationship": "ทำให้เกิด",
+      "description": "การติดต่อจากคนสู่คนสามารถทำให้เกิดโรคอหิวาตกโรค",
+      "doc_id": "2",
+      "chunk_id": 3
+    },
+    {
+      "source": "Cholera toxin",
+      "target": "อาการท้องเสีย",
+      "relationship": "ทำให้เกิด",
+      "description": "Cholera toxin ทำให้เกิดการอักเสบของลำไส้เล็กและทำให้เกิดอาการท้องเสีย",
+      "doc_id": "2",
+      "chunk_id": 3
+    },
+    {
+      "source": "ยาปฏิชีวนะ",
+      "target": "อหิวาตกโรค",
+      "relationship": "รักษา",
+      "description": "ยาปฏิชีวนะช่วยยับยั้งการแบ่งตัวของเชื้อและลดอาการท้องเสีย",
+      "doc_id": "2",
+      "chunk_id": 3
+    },
+    {
+      "source": "เชื้อ",
+      "target": "ท้องเสีย",
+      "relationship": "ทำให้เกิด",
+      "description": "เชื้อสามารถทำให้เกิดอาการท้องเสีย",
+      "doc_id": "2",
+      "chunk_id": 4
+    },
+    {
+      "source": "เชื้อ",
+      "target": "ไข้",
+      "relationship": "ทำให้เกิด",
+      "description": "เชื้อสามารถทำให้เกิดอาการไข้ในบางกรณี",
+      "doc_id": "2",
+      "chunk_id": 4
+    },
+    {
+      "source": "เชื้อ",
+      "target": "อุจจาระ",
+      "relationship": "อยู่ใน",
+      "description": "เชื้อสามารถอยู่ในอุจจาระและถูกขับออกจากร่างกาย",
+      "doc_id": "2",
+      "chunk_id": 4
+    },
+    {
+      "source": "ยาปฏิชีวนะ",
+      "target": "การแพร่เชื้อ",
+      "relationship": "ลดระยะเวลา",
+      "description": "การให้ยาปฏิชีวนะสามารถลดระยะเวลาการแพร่เชื้อ",
+      "doc_id": "2",
+      "chunk_id": 4
+    },
+    {
+      "source": "การติดเชื้อเรื้อรัง",
+      "target": "อุจจาระ",
+      "relationship": "ทำให้เกิด",
+      "description": "การติดเชื้อเรื้อรังสามารถทำให้เกิดการปล่อยเชื้อกับอุจจาระเป็นระยะ",
+      "doc_id": "2",
+      "chunk_id": 4
+    },
+    {
+      "source": "พาหะแพร่เชื้อ",
+      "target": "ผู้อื่น",
+      "relationship": "แพร่เชื้อ",
+      "description": "พาหะแพร่เชื้อสามารถแพร่เชื้อให้ผู้อื่นได้แม้จะไม่มีอาการแสดง",
+      "doc_id": "2",
+      "chunk_id": 4
+    },
+    {
+      "source": "อุจจาระร่วงรุนแรง",
+      "target": "ภาวะขาดน้ำ",
+      "relationship": "ทำให้เกิด",
+      "description": "อุจจาระร่วงรุนแรงสามารถทำให้เกิดภาวะขาดน้ำ",
+      "doc_id": "2",
+      "chunk_id": 4
+    },
+    {
+      "source": "อหิวาตกโรค",
+      "target": "ปวดท้อง",
+      "relationship": "มีอาการ",
+      "description": "ผู้ป่วยอหิวาตกโรครุนแรงมักไม่มีอาการปวดท้อง แต่อาจมีส่วนน้อยที่มีอาการปวดบิดในท้อง",
+      "doc_id": "2",
+      "chunk_id": 5
+    },
+    {
+      "source": "อหิวาตกโรค",
+      "target": "คลื่นไส้",
+      "relationship": "มีอาการ",
+      "description": "ผู้ป่วยอหิวาตกโรครุนแรงมักไม่มีอาการคลื่นไส้ แต่อาจมีส่วนน้อยที่มีอาการคลื่นไส้",
+      "doc_id": "2",
+      "chunk_id": 5
+    },
+    {
+      "source": "อหิวาตกโรค",
+      "target": "อาเจียน",
+      "relationship": "มีอาการ",
+      "description": "ผู้ป่วยอหิวาตกโรคทั้งในระดับเล็กน้อยถึงปานกลางและรุนแรงมักมีอาการอาเจียน",
+      "doc_id": "2",
+      "chunk_id": 5
+    },
+    {
+      "source": "อหิวาตกโรค",
+      "target": "ถ่ายเหลว",
+      "relationship": "มีอาการ",
+      "description": "ผู้ป่วยอหิวาตกโรคทั้งในระดับเล็กน้อยถึงปานกลางและรุนแรงมักมีอาการถ่ายเหลว",
+      "doc_id": "2",
+      "chunk_id": 5
+    },
+    {
+      "source": "อหิวาตกโรค",
+      "target": "ถ่ายเป็นน้ำ",
+      "relationship": "มีอาการ",
+      "description": "ผู้ป่วยอหิวาตกโรครุนแรงมักมีอาการถ่ายเป็นน้ำรุนแรง",
+      "doc_id": "2",
+      "chunk_id": 5
+    },
+    {
+      "source": "อหิวาตกโรค",
+      "target": "อุจจาระมีสีเหลือง",
+      "relationship": "มีอาการ",
+      "description": "ผู้ป่วยอหิวาตกโรครุนแรงมักมีอุจจาระที่มีสีเหลืองในระยะแรก",
+      "doc_id": "2",
+      "chunk_id": 5
+    },
+    {
+      "source": "อหิวาตกโรค",
+      "target": "อุจจาระมีสีเหมือนน้ำซาวข้าว",
+      "relationship": "มีอาการ",
+      "description": "ผู้ป่วยอหิวาตกโรครุนแรงมักมีอุจจาระที่มีสีเหมือนน้ำซาวข้าวเนื่องจากมีมูกมาก",
+      "doc_id": "2",
+      "chunk_id": 5
+    },
+    {
+      "source": "อหิวาตกโรค",
+      "target": "กลิ่นเหม็นเหมือนคาวปลา",
+      "relationship": "มีอาการ",
+      "description": "ผู้ป่วยอหิวาตกโรครุนแรงมักมีอุจจาระที่มีกลิ่นเหม็นเหมือนคาวปลาเล็กน้อย",
+      "doc_id": "2",
+      "chunk_id": 5
+    },
+    {
+      "source": "Severe Diarrhea",
+      "target": "Severe Dehydration",
+      "relationship": "causes",
+      "description": "Severe diarrhea can lead to severe dehydration if fluid and electrolyte replacement is insufficient.",
+      "doc_id": "2",
+      "chunk_id": 6
+    },
+    {
+      "source": "Severe Dehydration",
+      "target": "Shock",
+      "relationship": "causes",
+      "description": "Severe dehydration can rapidly lead to shock within 4-18 hours.",
+      "doc_id": "2",
+      "chunk_id": 6
+    },
+    {
+      "source": "Shock",
+      "target": "Death",
+      "relationship": "causes",
+      "description": "If shock is not treated promptly, it can lead to death within a short period.",
+      "doc_id": "2",
+      "chunk_id": 6
+    },
+    {
+      "source": "Hydration Therapy",
+      "target": "Severe Dehydration",
+      "relationship": "prevents",
+      "description": "Adequate hydration therapy can prevent severe dehydration and its complications.",
+      "doc_id": "2",
+      "chunk_id": 6
+    },
+    {
+      "source": "ภาวะแทรกซ้อนของอหิวาตกโรค",
+      "target": "ภาวะขาดน้ำ",
+      "relationship": "อาจทำให้เกิด",
+      "description": "ภาวะแทรกซ้อนของอหิวาตกโรคอาจทำให้เกิดภาวะขาดน้ำ",
+      "doc_id": "2",
+      "chunk_id": 7
+    },
+    {
+      "source": "ภาวะแทรกซ้อนของอหิวาตกโรค",
+      "target": "ช็อก",
+      "relationship": "อาจทำให้เกิด",
+      "description": "ภาวะแทรกซ้อนของอหิวาตกโรคอาจทำให้เกิดช็อก",
+      "doc_id": "2",
+      "chunk_id": 7
+    },
+    {
+      "source": "ช็อก",
+      "target": "ภาวะไตวายเฉียบพลัน",
+      "relationship": "อาจทำให้เกิด",
+      "description": "ช็อกอาจทำให้เกิดภาวะไตวายเฉียบพลัน",
+      "doc_id": "2",
+      "chunk_id": 7
+    },
+    {
+      "source": "ภาวะเลือดเป็นกรด",
+      "target": "ภาวะเลือดคั่งในปอด",
+      "relationship": "อาจทำให้เกิด",
+      "description": "ภาวะเลือดเป็นกรดอาจทำให้เกิดภาวะเลือดคั่งในปอดเมื่อมีการให้น้ำเกลือทางหลอดเลือดอย่างรวดเร็ว",
+      "doc_id": "2",
+      "chunk_id": 7
+    },
+    {
+      "source": "ภาวะกรดในเลือดกลับสู่ภาวะปกติ",
+      "target": "ภาวะโพแทสเซียมในเลือดต่ำ",
+      "relationship": "อาจทำให้เกิด",
+      "description": "ภาวะกรดในเลือดกลับสู่ภาวะปกติอาจทำให้เกิดภาวะโพแทสเซียมในเลือดต่ำ",
+      "doc_id": "2",
+      "chunk_id": 7
+    },
+    {
+      "source": "ภาวะน้ำตาลในเลือดต่ำ",
+      "target": "เด็ก",
+      "relationship": "อาจเกิดขึ้นใน",
+      "description": "ภาวะน้ำตาลในเลือดต่ำอาจเกิดขึ้นในเด็กมากกว่าผู้ใหญ่",
+      "doc_id": "2",
+      "chunk_id": 7
+    },
+    {
+      "source": "ภาวะเลือดคั่งในปอด",
+      "target": "ผู้ป่วยที่เลือดมีภาวะเป็นกรดมาก",
+      "relationship": "อาจเกิดขึ้นใน",
+      "description": "ภาวะเลือดคั่งในปอดอาจเกิดขึ้นในผู้ป่วยที่เลือดมีภาวะเป็นกรดมากและมีการให้น้ำเกลือทางหลอดเลือดอย่างรวดเร็ว",
+      "doc_id": "2",
+      "chunk_id": 7
+    },
+    {
+      "source": "ภาวะตะคริว",
+      "target": "2-3 ชั่วโมงแรกที่ให้น้ำเกลือทางหลอดเลือด",
+      "relationship": "อาจเกิดขึ้นใน",
+      "description": "ภาวะตะคริวอาจเกิดขึ้นใน 2-3 ชั่วโมงแรกที่ให้น้ำเกลือทางหลอดเลือด",
+      "doc_id": "2",
+      "chunk_id": 7
+    },
+    {
+      "source": "Cholera",
+      "target": "ORS",
+      "relationship": "treated with",
+      "description": "Cholera patients with mild symptoms are treated with ORS to prevent dehydration.",
+      "doc_id": "2",
+      "chunk_id": 10
+    },
+    {
+      "source": "Cholera",
+      "target": "Antibiotics",
+      "relationship": "treated with",
+      "description": "Cholera patients, especially those with confirmed or suspected cases, are treated with antibiotics to reduce the duration and severity of the disease.",
+      "doc_id": "2",
+      "chunk_id": 10
+    },
+    {
+      "source": "Severe Dehydration",
+      "target": "Intravenous Fluids",
+      "relationship": "treated with",
+      "description": "Severe dehydration in cholera patients is treated with intravenous fluids to quickly restore fluid balance.",
+      "doc_id": "2",
+      "chunk_id": 10
+    },
+    {
+      "source": "Norfloxacin",
+      "target": "Infection",
+      "relationship": "treats",
+      "description": "Norfloxacin is used to treat infections in areas resistant to tetracycline.",
+      "doc_id": "2",
+      "chunk_id": 11
+    },
+    {
+      "source": "Ciprofloxacin",
+      "target": "Infection",
+      "relationship": "treats",
+      "description": "Ciprofloxacin is used to treat infections in areas resistant to tetracycline.",
+      "doc_id": "2",
+      "chunk_id": 11
+    },
+    {
+      "source": "Erythromycin",
+      "target": "Infection",
+      "relationship": "treats",
+      "description": "Erythromycin is used to treat infections in areas resistant to tetracycline and in pregnant women and children.",
+      "doc_id": "2",
+      "chunk_id": 11
+    },
+    {
+      "source": "Furazolidone",
+      "target": "Infection",
+      "relationship": "treats",
+      "description": "Furazolidone is used to treat infections in children and pregnant women.",
+      "doc_id": "2",
+      "chunk_id": 11
+    },
+    {
+      "source": "Co-trimoxazole",
+      "target": "Infection",
+      "relationship": "treats",
+      "description": "Co-trimoxazole is used to treat infections in children and pregnant women.",
+      "doc_id": "2",
+      "chunk_id": 11
+    },
+    {
+      "source": "Antibiotics",
+      "target": "Diarrhea",
+      "relationship": "treat",
+      "description": "Antibiotics can treat diarrhea caused by infections.",
+      "doc_id": "2",
+      "chunk_id": 11
+    },
+    {
+      "source": "Diarrhea",
+      "target": "Dehydration",
+      "relationship": "causes",
+      "description": "Severe diarrhea can lead to dehydration.",
+      "doc_id": "2",
+      "chunk_id": 11
+    },
+    {
+      "source": "Dehydration",
+      "target": "Shock",
+      "relationship": "causes",
+      "description": "Severe dehydration can lead to shock.",
+      "doc_id": "2",
+      "chunk_id": 11
+    },
+    {
+      "source": "Cholera",
+      "target": "Severe Diarrhea",
+      "relationship": "causes",
+      "description": "Cholera infection leads to severe diarrhea",
+      "doc_id": "2",
+      "chunk_id": 12
+    },
+    {
+      "source": "Severe Diarrhea",
+      "target": "ORS",
+      "relationship": "requires",
+      "description": "Severe diarrhea from cholera requires ORS for rehydration",
+      "doc_id": "2",
+      "chunk_id": 12
+    },
+    {
+      "source": "Contact with Cholera",
+      "target": "Cholera",
+      "relationship": "increases risk of",
+      "description": "Exposure to cholera increases the risk of infection",
+      "doc_id": "2",
+      "chunk_id": 12
+    },
+    {
+      "source": "Epidemic Area",
+      "target": "Cholera",
+      "relationship": "increases risk of",
+      "description": "Living in an area with poor sanitation and high population density increases the risk of cholera",
+      "doc_id": "2",
+      "chunk_id": 12
+    },
+    {
+      "source": "Cholera",
+      "target": "Immunity",
+      "relationship": "affects",
+      "description": "Recovery from cholera provides lifelong immunity",
+      "doc_id": "2",
+      "chunk_id": 12
+    },
+    {
+      "source": "Blood Group O",
+      "target": "Severe Cholera",
+      "relationship": "increases risk of",
+      "description": "Individuals with blood group O are at higher risk for severe cholera",
+      "doc_id": "2",
+      "chunk_id": 12
+    },
+    {
+      "source": "Breastfeeding",
+      "target": "Cholera",
+      "relationship": "prevents",
+      "description": "Breastfeeding helps prevent and reduce the severity of cholera",
+      "doc_id": "2",
+      "chunk_id": 12
+    },
+    {
+      "source": "สุขอนามัยพื้นฐาน",
+      "target": "อหิวาตกโรค",
+      "relationship": "ป้องกัน",
+      "description": "การรักษาสุขอนามัยพื้นฐานช่วยลดโอกาสการติดเชื้อ",
+      "doc_id": "2",
+      "chunk_id": 13
+    },
+    {
+      "source": "น้ำสะอาด",
+      "target": "อหิวาตกโรค",
+      "relationship": "ป้องกัน",
+      "description": "การดื่มน้ำสะอาดช่วยป้องกันการติดเชื้อ",
+      "doc_id": "2",
+      "chunk_id": 13
+    },
+    {
+      "source": "อาหารปรุงสุกใหม่",
+      "target": "อหิวาตกโรค",
+      "relationship": "ป้องกัน",
+      "description": "การรับประทานอาหารปรุงสุกใหม่ช่วยป้องกันการติดเชื้อ",
+      "doc_id": "2",
+      "chunk_id": 13
+    },
+    {
+      "source": "แมลงวัน",
+      "target": "อหิวาตกโรค",
+      "relationship": "พาหะ",
+      "description": "แมลงวันเป็นพาหะของเชื้อโรคติดเชื้อในทางเดินอาหาร",
+      "doc_id": "2",
+      "chunk_id": 13
+    },
+    {
+      "source": "การล้างมือ",
+      "target": "อหิวาตกโรค",
+      "relationship": "ป้องกัน",
+      "description": "การล้างมือด้วยน้ำและสบู่ช่วยป้องกันการติดเชื้อ",
+      "doc_id": "2",
+      "chunk_id": 13
+    },
+    {
+      "source": "ส้วมที่ถูกสุขลักษณะ",
+      "target": "อหิวาตกโรค",
+      "relationship": "ป้องกัน",
+      "description": "การใช้ส้วมที่ถูกสุขลักษณะช่วยป้องกันการแพร่กระจายของเชื้อโรค",
+      "doc_id": "2",
+      "chunk_id": 13
+    },
+    {
+      "source": "การสัมผัสผู้ป่วย",
+      "target": "อหิวาตกโรค",
+      "relationship": "เสี่ยงต่อ",
+      "description": "การสัมผัสผู้ป่วยที่เป็นอหิวาตกโรคมีความเสี่ยงต่อการติดเชื้อ",
+      "doc_id": "2",
+      "chunk_id": 13
+    },
+    {
+      "source": "ยาปฏิชีวนะ",
+      "target": "อหิวาตกโรค",
+      "relationship": "ไม่แนะนำ",
+      "description": "การใช้ยาปฏิชีวนะเพื่อป้องกันการแพร่ระบาดของโรคไม่ได้ผลและอาจทำให้เชื้อดื้อยา",
+      "doc_id": "2",
+      "chunk_id": 13
+    },
+    {
+      "source": "Antibiotics",
+      "target": "Cholera prevention in communities",
+      "relationship": "not recommended for",
+      "description": "Antibiotics are not recommended for preventing cholera in communities due to ineffectiveness and potential antibiotic resistance.",
+      "doc_id": "2",
+      "chunk_id": 14
+    },
+    {
+      "source": "Oral Cholera Vaccine",
+      "target": "High-Risk Groups",
+      "relationship": "recommended for",
+      "description": "The oral cholera vaccine is recommended for high-risk groups such as children and HIV patients.",
+      "doc_id": "2",
+      "chunk_id": 14
+    },
+    {
+      "source": "Oral Cholera Vaccine",
+      "target": "Travelers",
+      "relationship": "recommended for",
+      "description": "The oral cholera vaccine is recommended for travelers going to areas with cholera outbreaks.",
+      "doc_id": "2",
+      "chunk_id": 14
+    },
+    {
+      "source": "Medthai",
+      "target": "Health Information",
+      "relationship": "provides",
+      "description": "Medthai provides accurate and independent health information.",
+      "doc_id": "2",
+      "chunk_id": 16
+    },
+    {
+      "source": "Medthai",
+      "target": "Medical Experts",
+      "relationship": "collaborates with",
+      "description": "Medthai collaborates with medical experts to ensure the accuracy and quality of the information.",
+      "doc_id": "2",
+      "chunk_id": 16
+    },
+    {
+      "source": "Cataract",
+      "target": "Elderly",
+      "relationship": "affects",
+      "description": "Cataracts are a common condition in elderly individuals",
+      "doc_id": "44",
+      "chunk_id": 0
+    },
+    {
+      "source": "Cataract",
+      "target": "Blurred Vision",
+      "relationship": "causes",
+      "description": "Cataracts cause the lens to become cloudy, which obstructs light and results in blurred vision.",
+      "doc_id": "44",
+      "chunk_id": 1
+    },
+    {
+      "source": "Lens",
+      "target": "Eye",
+      "relationship": "part of",
+      "description": "The lens is a part of the eye that focuses light onto the retina.",
+      "doc_id": "44",
+      "chunk_id": 1
+    },
+    {
+      "source": "Retina",
+      "target": "Lens",
+      "relationship": "receives light from",
+      "description": "The retina receives and processes light that is focused by the lens.",
+      "doc_id": "44",
+      "chunk_id": 1
+    },
+    {
+      "source": "Cornea",
+      "target": "Retina",
+      "relationship": "refracts light",
+      "description": "The cornea helps to refract light onto the retina",
+      "doc_id": "44",
+      "chunk_id": 2
+    },
+    {
+      "source": "Lens",
+      "target": "Retina",
+      "relationship": "adjusts refractive power",
+      "description": "The lens can change its refractive power to focus light on the retina",
+      "doc_id": "44",
+      "chunk_id": 2
+    },
+    {
+      "source": "Eye",
+      "target": "Lens",
+      "relationship": "protects",
+      "description": "The eye places the lens in a safe position to protect it from damage",
+      "doc_id": "44",
+      "chunk_id": 2
+    },
+    {
+      "source": "Age-related Cataract",
+      "target": "Aging",
+      "relationship": "caused by",
+      "description": "Cataract primarily develops due to the aging process, especially in individuals over 60 years old.",
+      "doc_id": "44",
+      "chunk_id": 3
+    },
+    {
+      "source": "Congenital Cataract",
+      "target": "Maternal Rubella",
+      "relationship": "caused by",
+      "description": "Cataract in newborns can be caused by maternal rubella infection during the first trimester of pregnancy.",
+      "doc_id": "44",
+      "chunk_id": 3
+    },
+    {
+      "source": "Congenital Cataract",
+      "target": "Malnutrition",
+      "relationship": "caused by",
+      "description": "Cataract in newborns can be caused by malnutrition or nutritional deficiencies.",
+      "doc_id": "44",
+      "chunk_id": 3
+    },
+    {
+      "source": "Congenital Cataract",
+      "target": "Genetic Factors",
+      "relationship": "caused by",
+      "description": "Cataract in newborns can be caused by genetic factors.",
+      "doc_id": "44",
+      "chunk_id": 3
+    },
+    {
+      "source": "Traumatic Cataract",
+      "target": "Eye Injury",
+      "relationship": "caused by",
+      "description": "Cataract can develop from severe eye injuries or impacts, often in young adults and middle-aged individuals.",
+      "doc_id": "44",
+      "chunk_id": 3
+    },
+    {
+      "source": "Disease-related Cataract",
+      "target": "Chronic Diseases",
+      "relationship": "caused by",
+      "description": "Cataract can be associated with chronic diseases such as diabetes, hypertension, thyroid disorders, and skin inflammation.",
+      "doc_id": "44",
+      "chunk_id": 3
+    },
+    {
+      "source": "Medication-induced Cataract",
+      "target": "Steroids",
+      "relationship": "caused by",
+      "description": "Cataract can be caused by prolonged use of steroids, including topical and oral forms.",
+      "doc_id": "44",
+      "chunk_id": 3
+    },
+    {
+      "source": "Medication-induced Cataract",
+      "target": "Weight Loss Drugs",
+      "relationship": "caused by",
+      "description": "Cataract can be caused by prolonged use of certain weight loss drugs.",
+      "doc_id": "44",
+      "chunk_id": 3
+    },
+    {
+      "source": "Radiation-induced Cataract",
+      "target": "Radiation Exposure",
+      "relationship": "caused by",
+      "description": "Cataract can develop from prolonged exposure to radiation, such as in cancer patients treated with radiation therapy.",
+      "doc_id": "44",
+      "chunk_id": 3
+    },
+    {
+      "source": "Radiation-induced Cataract",
+      "target": "UV Light",
+      "relationship": "caused by",
+      "description": "Cataract can develop from prolonged exposure to UV light.",
+      "doc_id": "44",
+      "chunk_id": 3
+    },
+    {
+      "source": "Lifestyle-induced Cataract",
+      "target": "Smoking",
+      "relationship": "caused by",
+      "description": "Cataract can be accelerated by smoking.",
+      "doc_id": "44",
+      "chunk_id": 3
+    },
+    {
+      "source": "Lifestyle-induced Cataract",
+      "target": "Heavy Alcohol Consumption",
+      "relationship": "caused by",
+      "description": "Cataract can be accelerated by heavy alcohol consumption.",
+      "doc_id": "44",
+      "chunk_id": 3
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "ตาค่อย ๆ มัวลง",
+      "relationship": "ทำให้เกิด",
+      "description": "ต้อกระจกทำให้ผู้ป่วยรู้สึกว่าตาค่อย ๆ มัวลงเรื่อย ๆ",
+      "doc_id": "44",
+      "chunk_id": 4
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "ตาพร่ามัว",
+      "relationship": "ทำให้เกิด",
+      "description": "ต้อกระจกทำให้ตาพร่ามัวเมื่อถูกแสงสว่าง",
+      "doc_id": "44",
+      "chunk_id": 4
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "เห็นภาพซ้อน",
+      "relationship": "ทำให้เกิด",
+      "description": "ต้อกระจกทำให้เห็นภาพซ้อนเนื่องจากแก้วตามักจะขุ่นขาวเฉพาะบริเวณตรงกลาง",
+      "doc_id": "44",
+      "chunk_id": 4
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "ตาไม่เจ็บปวดหรือตาแดง",
+      "relationship": "ไม่ทำให้เกิด",
+      "description": "ต้อกระจกไม่ทำให้เกิดอาการเจ็บปวดหรือตาแดง",
+      "doc_id": "44",
+      "chunk_id": 4
+    },
+    {
+      "source": "Vision Disturbance",
+      "target": "Cataract",
+      "relationship": "caused by",
+      "description": "Vision disturbances such as seeing spots, light scattering, and double vision are caused by the clouding of the lens in cataracts.",
+      "doc_id": "44",
+      "chunk_id": 5
+    },
+    {
+      "source": "Secondary Myopia",
+      "target": "Cataract",
+      "relationship": "caused by",
+      "description": "Older individuals may develop nearsightedness (secondary myopia) due to the clouding of the lens in the early stages of cataracts.",
+      "doc_id": "44",
+      "chunk_id": 5
+    },
+    {
+      "source": "Eye Pain",
+      "target": "Cataract",
+      "relationship": "associated with",
+      "description": "Severe cataracts can cause eye pain.",
+      "doc_id": "44",
+      "chunk_id": 5
+    },
+    {
+      "source": "Headache",
+      "target": "Cataract",
+      "relationship": "associated with",
+      "description": "Severe cataracts can cause headaches.",
+      "doc_id": "44",
+      "chunk_id": 5
+    },
+    {
+      "source": "Blurred Vision",
+      "target": "Cataract",
+      "relationship": "progresses with",
+      "description": "Blurred vision worsens over time as the cataract progresses, eventually leading to significant vision loss.",
+      "doc_id": "44",
+      "chunk_id": 5
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "ตาพร่า",
+      "relationship": "ทำให้เกิด",
+      "description": "ต้อกระจกทำให้ตาพร่าเมื่อใช้ไฟส่อง",
+      "doc_id": "44",
+      "chunk_id": 6
+    },
+    {
+      "source": "ตาพร่า",
+      "target": "ต้อหิน",
+      "relationship": "อาจมีสาเหตุจาก",
+      "description": "ตาพร่าอาจมีสาเหตุจากต้อหิน",
+      "doc_id": "44",
+      "chunk_id": 6
+    },
+    {
+      "source": "เบาหวาน",
+      "target": "ต้อกระจก",
+      "relationship": "อาจทำให้เกิด",
+      "description": "เบาหวานอาจเป็นสาเหตุของต้อกระจก",
+      "doc_id": "44",
+      "chunk_id": 6
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "ตาบอดสนิท",
+      "relationship": "อาจทำให้",
+      "description": "เมื่อต้อสุกและไม่ได้รับการผ่าตัด",
+      "doc_id": "44",
+      "chunk_id": 7
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "ต้อหิน",
+      "relationship": "อาจทำให้",
+      "description": "แก้วตาบวมหรือหลุดลอยไปอุดกั้นทางระบายของเหลวในลูกตา",
+      "doc_id": "44",
+      "chunk_id": 7
+    },
+    {
+      "source": "ต้อหิน",
+      "target": "ปวดตา",
+      "relationship": "ทำให้",
+      "description": "ผู้ป่วยจะมีอาการปวดตาอย่างรุนแรง",
+      "doc_id": "44",
+      "chunk_id": 7
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "การผ่าตัดต้อกระจก",
+      "relationship": "รักษาด้วย",
+      "description": "การรักษาต้อกระจกมีเพียงวิธีเดียวคือการผ่าตัดเอาแก้วตาที่ขุ่นออก",
+      "doc_id": "44",
+      "chunk_id": 8
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "ต้อหิน",
+      "relationship": "อาจสับสนกับ",
+      "description": "อาการตามัวอาจเกิดจากต้อหินซึ่งร้ายแรงกว่าต้อกระจกหลายเท่า",
+      "doc_id": "44",
+      "chunk_id": 8
+    },
+    {
+      "source": "ยาหยอดตา",
+      "target": "ต้อกระจก",
+      "relationship": "ไม่ช่วยรักษา",
+      "description": "ไม่มียาหยอดตาใด ๆ ที่ช่วยแก้อาการของต้อกระจกได้",
+      "doc_id": "44",
+      "chunk_id": 8
+    },
+    {
+      "source": "แว่นสายตา",
+      "target": "ต้อกระจก",
+      "relationship": "ใช้ช่วย",
+      "description": "ใช้แว่นสายตาช่วยในกรณีที่ต้อกระจกยังไม่รุนแรง",
+      "doc_id": "44",
+      "chunk_id": 8
+    },
+    {
+      "source": "การผ่าตัดต้อกระจก",
+      "target": "ภาวะแทรกซ้อน",
+      "relationship": "อาจมี",
+      "description": "การผ่าตัดต้อกระจกอาจมีภาวะแทรกซ้อนที่รุนแรง",
+      "doc_id": "44",
+      "chunk_id": 8
+    },
+    {
+      "source": "เบาหวาน",
+      "target": "ภาวะแทรกซ้อน",
+      "relationship": "อาจมี",
+      "description": "ผู้ป่วยเบาหวานอาจมีภาวะแทรกซ้อนที่ส่งผลต่อการตรวจจอประสาทตา",
+      "doc_id": "44",
+      "chunk_id": 8
+    },
+    {
+      "source": "ต้อสุกมาก",
+      "target": "การผ่าตัดต้อกระจก",
+      "relationship": "ทำให้",
+      "description": "ต้อสุกมากทำให้การผ่าตัดต้อกระจกยากและอาจส่งผลร้ายแรง",
+      "doc_id": "44",
+      "chunk_id": 8
+    },
+    {
+      "source": "ตาดำผิดปกติ",
+      "target": "การผ่าตัดต้อกระจก",
+      "relationship": "ทำให้",
+      "description": "ตาดำผิดปกติทำให้การผ่าตัดต้อกระจกยาก",
+      "doc_id": "44",
+      "chunk_id": 8
+    },
+    {
+      "source": "เนื้อเยื่อยึดแก้วตาอ่อนแอ",
+      "target": "การผ่าตัดต้อกระจก",
+      "relationship": "ทำให้",
+      "description": "เนื้อเยื่อยึดแก้วตาอ่อนแอทำให้การผ่าตัดต้อกระจกอาจมีภาวะแทรกซ้อนรุนแรง",
+      "doc_id": "44",
+      "chunk_id": 8
+    },
+    {
+      "source": "ตาประสาทตายังดี",
+      "target": "การผ่าตัด",
+      "relationship": "ทำให้",
+      "description": "การผ่าตัดจะทำให้มองเห็นได้ดี",
+      "doc_id": "44",
+      "chunk_id": 9
+    },
+    {
+      "source": "ตาประสาทตาเสีย",
+      "target": "การผ่าตัด",
+      "relationship": "ไม่ช่วย",
+      "description": "การผ่าตัดจะไม่ช่วยให้ตามองเห็นได้ดีขึ้น",
+      "doc_id": "44",
+      "chunk_id": 9
+    },
+    {
+      "source": "ตากุ้งยิง",
+      "target": "การผ่าตัด",
+      "relationship": "เป็นอุปสรรค",
+      "description": "ตากุ้งยิงเป็นอุปสรรคในการผ่าตัด",
+      "doc_id": "44",
+      "chunk_id": 9
+    },
+    {
+      "source": "ถุงน้ำตาอักเสบ",
+      "target": "การผ่าตัด",
+      "relationship": "เป็นอุปสรรค",
+      "description": "ถุงน้ำตาอักเสบเป็นอุปสรรคในการผ่าตัด",
+      "doc_id": "44",
+      "chunk_id": 9
+    },
+    {
+      "source": "เบาหวาน",
+      "target": "การผ่าตัด",
+      "relationship": "เป็นอุปสรรค",
+      "description": "เบาหวานเป็นอุปสรรคในการผ่าตัด",
+      "doc_id": "44",
+      "chunk_id": 9
+    },
+    {
+      "source": "ความดันโลหิตสูง",
+      "target": "การผ่าตัด",
+      "relationship": "เป็นอุปสรรค",
+      "description": "ความดันโลหิตสูงเป็นอุปสรรคในการผ่าตัด",
+      "doc_id": "44",
+      "chunk_id": 9
+    },
+    {
+      "source": "โรคโลหิตจาง",
+      "target": "การผ่าตัด",
+      "relationship": "เป็นอุปสรรค",
+      "description": "โรคโลหิตจางเป็นอุปสรรคในการผ่าตัด",
+      "doc_id": "44",
+      "chunk_id": 9
+    },
+    {
+      "source": "โรคปอด",
+      "target": "การผ่าตัด",
+      "relationship": "เป็นอุปสรรค",
+      "description": "โรคปอดเป็นอุปสรรคในการผ่าตัด",
+      "doc_id": "44",
+      "chunk_id": 9
+    },
+    {
+      "source": "การควบคุมเบาหวาน",
+      "target": "การผ่าตัด",
+      "relationship": "จำเป็นก่อน",
+      "description": "การควบคุมเบาหวานจำเป็นก่อนการผ่าตัด",
+      "doc_id": "44",
+      "chunk_id": 9
+    },
+    {
+      "source": "Phacoemulsification",
+      "target": "Cataract",
+      "relationship": "used for",
+      "description": "Phacoemulsification is used to break up and remove cataracts.",
+      "doc_id": "44",
+      "chunk_id": 10
+    },
+    {
+      "source": "Phacoemulsification",
+      "target": "Intraocular Lens",
+      "relationship": "results in",
+      "description": "Phacoemulsification leads to the implantation of an intraocular lens.",
+      "doc_id": "44",
+      "chunk_id": 10
+    },
+    {
+      "source": "Intraocular Lens",
+      "target": "Accommodation",
+      "relationship": "affects",
+      "description": "The intraocular lens can reduce the eye's ability to accommodate, affecting near vision.",
+      "doc_id": "44",
+      "chunk_id": 10
+    },
+    {
+      "source": "การผ่าตัดต้อกระจก",
+      "target": "ยาสลบ",
+      "relationship": "ใช้",
+      "description": "การผ่าตัดต้อกระจกอาจใช้ยาสลบในผู้ป่วยที่ไม่ให้ความร่วมมือ",
+      "doc_id": "44",
+      "chunk_id": 12
+    },
+    {
+      "source": "การผ่าตัดต้อกระจก",
+      "target": "ยาชาเฉพาะที่",
+      "relationship": "ใช้",
+      "description": "การผ่าตัดต้อกระจกอาจใช้ยาชาเฉพาะที่เพื่อลดความเจ็บปวด",
+      "doc_id": "44",
+      "chunk_id": 12
+    },
+    {
+      "source": "การผ่าตัดต้อกระจก",
+      "target": "Phacoemulsification",
+      "relationship": "ใช้",
+      "description": "การผ่าตัดต้อกระจกใช้ Phacoemulsification เพื่อสลายและดูดเลนส์ต้อกระจกออก",
+      "doc_id": "44",
+      "chunk_id": 12
+    },
+    {
+      "source": "การผ่าตัดต้อกระจก",
+      "target": "Femtosecond laser",
+      "relationship": "ใช้",
+      "description": "การผ่าตัดต้อกระจกแบบใหม่ใช้ Femtosecond laser เพื่อเพิ่มความแม่นยำและลดการบอบช้ำของดวงตา",
+      "doc_id": "44",
+      "chunk_id": 12
+    },
+    {
+      "source": "การผ่าตัดต้อกระจก",
+      "target": "เลนส์แก้วตาเทียม",
+      "relationship": "ฝัง",
+      "description": "การผ่าตัดต้อกระจกจะฝังเลนส์แก้วตาเทียมแทนเลนส์แก้วตาที่ถูกสลายออก",
+      "doc_id": "44",
+      "chunk_id": 12
+    },
+    {
+      "source": "ต้อกระจก",
+      "target": "การผ่าต้อกระจก",
+      "relationship": "การรักษา",
+      "description": "ต้อกระจกสามารถรักษาได้ด้วยการผ่าตัด",
+      "doc_id": "44",
+      "chunk_id": 13
+    },
+    {
+      "source": "การผ่าต้อกระจก",
+      "target": "เลนส์แก้วตาเทียม",
+      "relationship": "ใช้",
+      "description": "การผ่าต้อกระจกมักใช้เลนส์แก้วตาเทียมในการรักษา",
+      "doc_id": "44",
+      "chunk_id": 13
+    },
+    {
+      "source": "การผ่าต้อกระจก",
+      "target": "ต้อหิน",
+      "relationship": "ลดความเสี่ยง",
+      "description": "การผ่าต้อกระจกที่ถูกต้องช่วยลดความเสี่ยงของการเกิดต้อหิน",
+      "doc_id": "44",
+      "chunk_id": 13
+    },
+    {
+      "source": "การผ่าต้อกระจก",
+      "target": "เลือดออกในวุ้นลูกตา",
+      "relationship": "ลดความเสี่ยง",
+      "description": "การผ่าต้อกระจกที่ถูกต้องช่วยลดความเสี่ยงของการเกิดเลือดออกในวุ้นลูกตา",
+      "doc_id": "44",
+      "chunk_id": 13
+    },
+    {
+      "source": "การผ่าต้อกระจก",
+      "target": "ประสาทตาเสื่อม",
+      "relationship": "ลดความเสี่ยง",
+      "description": "การผ่าต้อกระจกที่ถูกต้องช่วยลดความเสี่ยงของการเกิดประสาทตาเสื่อม",
+      "doc_id": "44",
+      "chunk_id": 13
+    },
+    {
+      "source": "การผ่าตัดต้อกระจก",
+      "target": "ต้อกระจก",
+      "relationship": "ช่วยฟื้นฟู",
+      "description": "การผ่าตัดช่วยให้ผู้ป่วยฟื้นสายตาและไม่กลับมาเป็นต้อกระจกซ้ำ",
+      "doc_id": "44",
+      "chunk_id": 14
+    },
+    {
+      "source": "การผ่าตัดต้อกระจก",
+      "target": "เลนส์แก้วตาเทียม",
+      "relationship": "ใช้",
+      "description": "การผ่าตัดใช้เลนส์แก้วตาเทียมเพื่อช่วยให้ผู้ป่วยฟื้นสายตา",
+      "doc_id": "44",
+      "chunk_id": 14
+    },
+    {
+      "source": "ตามัว",
+      "target": "ต้อหิน",
+      "relationship": "อาจเกิดจาก",
+      "description": "ตามัวหลังการผ่าตัดต้อกระจกอาจเกิดจากต้อหิน",
+      "doc_id": "44",
+      "chunk_id": 14
+    },
+    {
+      "source": "ตามัว",
+      "target": "จอตาเสื่อม",
+      "relationship": "อาจเกิดจาก",
+      "description": "ตามัวหลังการผ่าตัดต้อกระจกอาจเกิดจากจอตาเสื่อม",
+      "doc_id": "44",
+      "chunk_id": 14
+    },
+    {
+      "source": "ตามัว",
+      "target": "ถุงหุ้มเลนส์ขุ่น",
+      "relationship": "อาจเกิดจาก",
+      "description": "ตามัวหลังการผ่าตัดต้อกระจกอาจเกิดจากถุงหุ้มเลนส์ขุ่น",
+      "doc_id": "44",
+      "chunk_id": 14
+    },
+    {
+      "source": "ยาสเตียรอยด์",
+      "target": "ต้อกระจก",
+      "relationship": "เพิ่มความเสี่ยง",
+      "description": "การใช้ยาสเตียรอยด์เป็นเวลานานเพิ่มความเสี่ยงในการเกิดต้อกระจก",
+      "doc_id": "44",
+      "chunk_id": 15
+    },
+    {
+      "source": "อุบัติเหตุตา",
+      "target": "ต้อกระจก",
+      "relationship": "เพิ่มความเสี่ยง",
+      "description": "การกระทบกระแทกที่ตาเพิ่มความเสี่ยงในการเกิดต้อกระจก",
+      "doc_id": "44",
+      "chunk_id": 15
+    },
+    {
+      "source": "แสงแดด",
+      "target": "ต้อกระจก",
+      "relationship": "เพิ่มความเสี่ยง",
+      "description": "แสงอัลตราไวโอเลตจากแสงแดดเพิ่มความเสี่ยงในการเกิดต้อกระจก",
+      "doc_id": "44",
+      "chunk_id": 15
+    },
+    {
+      "source": "การสูบบุหรี่",
+      "target": "ต้อกระจก",
+      "relationship": "เพิ่มความเสี่ยง",
+      "description": "การสูบบุหรี่เพิ่มความเสี่ยงในการเกิดต้อกระจก",
+      "doc_id": "44",
+      "chunk_id": 15
+    },
+    {
+      "source": "การดื่มแอลกอฮอล์",
+      "target": "ต้อกระจก",
+      "relationship": "เพิ่มความเสี่ยง",
+      "description": "การดื่มแอลกอฮอล์จัดเพิ่มความเสี่ยงในการเกิดต้อกระจก",
+      "doc_id": "44",
+      "chunk_id": 15
+    },
+    {
+      "source": "การตรวจสุขภาพตา",
+      "target": "ต้อกระจก",
+      "relationship": "ป้องกัน",
+      "description": "การตรวจสุขภาพตาเป็นประจำช่วยป้องกันและตรวจพบต้อกระจกในระยะเริ่มต้น",
+      "doc_id": "44",
+      "chunk_id": 15
+    },
+    {
+      "source": "Glaucoma",
+      "target": "Glaucoma",
+      "relationship": "has symptoms and treatments",
+      "description": "Glaucoma has specific symptoms and can be treated with 5 methods.",
+      "doc_id": "44",
+      "chunk_id": 16
+    },
+    {
+      "source": "Pinguecula",
+      "target": "Pinguecula",
+      "relationship": "has symptoms and treatments",
+      "description": "Pinguecula has specific symptoms and can be treated with 6 methods.",
+      "doc_id": "44",
+      "chunk_id": 16
+    },
+    {
+      "source": "Pterygium",
+      "target": "Pterygium",
+      "relationship": "has symptoms and treatments",
+      "description": "Pterygium has specific symptoms and can be treated with 5 methods.",
+      "doc_id": "44",
+      "chunk_id": 16
+    },
+    {
+      "source": "เมดไทย",
+      "target": "สุขภาพดวงตา",
+      "relationship": "หมวดหมู่",
+      "description": "เมดไทยมีหมวดหมู่ข้อมูลเกี่ยวกับสุขภาพดวงตา",
+      "doc_id": "44",
+      "chunk_id": 18
+    },
+    {
+      "source": "เมดไทย",
+      "target": "สุขภาพผู้สูงอายุ",
+      "relationship": "หมวดหมู่",
+      "description": "เมดไทยมีหมวดหมู่ข้อมูลเกี่ยวกับสุขภาพผู้สูงอายุ",
+      "doc_id": "44",
+      "chunk_id": 18
+    },
+    {
+      "source": "เมดไทย",
+      "target": "โรคตา",
+      "relationship": "หมวดหมู่",
+      "description": "เมดไทยมีหมวดหมู่ข้อมูลเกี่ยวกับโรคตา",
+      "doc_id": "44",
+      "chunk_id": 18
+    },
+    {
+      "source": "โรคตา",
+      "target": "ต้อกระจก",
+      "relationship": "รวม",
+      "description": "ต้อกระจกเป็นหนึ่งในโรคตาที่ถูกกล่าวถึงในหมวดหมู่โรคตา",
+      "doc_id": "44",
+      "chunk_id": 18
+    },
+    {
+      "source": "GERD",
+      "target": "Heartburn",
+      "relationship": "causes",
+      "description": "GERD can cause a burning sensation in the chest known as heartburn.",
+      "doc_id": "5555",
+      "chunk_id": 1
+    },
+    {
+      "source": "GERD",
+      "target": "Esophagitis",
+      "relationship": "causes",
+      "description": "GERD can lead to inflammation of the esophagus, known as esophagitis.",
+      "doc_id": "5555",
+      "chunk_id": 1
+    },
+    {
+      "source": "Dyspepsia",
+      "target": "GERD",
+      "relationship": "associated with",
+      "description": "Dyspepsia, or indigestion, is often associated with GERD.",
+      "doc_id": "5555",
+      "chunk_id": 1
+    },
+    {
+      "source": "ภาวะหย่อนสมรรถภาพของ LES",
+      "target": "กรดไหลย้อน",
+      "relationship": "ทำให้",
+      "description": "ภาวะหย่อนสมรรถภาพของหูรูดส่วนล่างของหลอดอาหารทำให้น้ำย่อยในกระเพาะอาหารไหลย้อนขึ้นไปที่หลอดอาหารและลำคอ",
+      "doc_id": "5555",
+      "chunk_id": 2
+    },
+    {
+      "source": "น้ำย่อย",
+      "target": "อาการไม่สบาย",
+      "relationship": "ทำให้",
+      "description": "น้ำย่อยที่มีฤทธิ์เป็นกรดทำให้เกิดการระคายเคืองต่อเยื่อบุของหลอดอาหารและลำคอ ทำให้เกิดอาการไม่สบาย",
+      "doc_id": "5555",
+      "chunk_id": 2
+    },
+    {
+      "source": "น้ำย่อย",
+      "target": "ภาวะแทรกซ้อน",
+      "relationship": "ทำให้",
+      "description": "น้ำย่อยที่มีฤทธิ์เป็นกรดทำให้เกิดการระคายเคืองต่อเยื่อบุของหลอดอาหารและลำคอ ทำให้เกิดภาวะแทรกซ้อนต่าง ๆ ตามมา",
+      "doc_id": "5555",
+      "chunk_id": 2
+    },
+    {
+      "source": "Lower Esophageal Sphincter",
+      "target": "Acid Reflux",
+      "relationship": "Causes",
+      "description": "Degeneration or underdevelopment of the lower esophageal sphincter can lead to acid reflux.",
+      "doc_id": "5555",
+      "chunk_id": 3
+    },
+    {
+      "source": "Age-Related Degeneration",
+      "target": "Lower Esophageal Sphincter",
+      "relationship": "Causes",
+      "description": "Age-related degeneration can weaken the lower esophageal sphincter.",
+      "doc_id": "5555",
+      "chunk_id": 3
+    },
+    {
+      "source": "Infant Sphincter Underdevelopment",
+      "target": "Lower Esophageal Sphincter",
+      "relationship": "Causes",
+      "description": "In infants, the lower esophageal sphincter may not be fully developed, leading to weak function.",
+      "doc_id": "5555",
+      "chunk_id": 3
+    },
+    {
+      "source": "Increased Gastric Pressure",
+      "target": "Acid Reflux",
+      "relationship": "Causes",
+      "description": "Increased pressure in the stomach can force the lower esophageal sphincter to open, allowing stomach contents to flow back into the esophagus.",
+      "doc_id": "5555",
+      "chunk_id": 3
+    },
+    {
+      "source": "Delayed Gastric Emptying",
+      "target": "Acid Reflux",
+      "relationship": "Causes",
+      "description": "Delayed emptying of the stomach can lead to prolonged exposure of the esophagus to stomach acid.",
+      "doc_id": "5555",
+      "chunk_id": 3
+    },
+    {
+      "source": "Hiatal Hernia",
+      "target": "Acid Reflux",
+      "relationship": "Contributes To",
+      "description": "A hiatal hernia can contribute to the occurrence of acid reflux by increasing gastric pressure.",
+      "doc_id": "5555",
+      "chunk_id": 3
+    },
+    {
+      "source": "กล้ามเนื้อและเนื้อเยื่อ",
+      "target": "หลอดอาหาร",
+      "relationship": "ส่งผลให้",
+      "description": "กล้ามเนื้อและเนื้อเยื่อที่มีประสิทธิภาพในการทำงานน้อยลงส่งผลให้หลอดอาหารมีประสิทธิภาพในการทำงานน้อยลง",
+      "doc_id": "5555",
+      "chunk_id": 5
+    },
+    {
+      "source": "กล้ามเนื้อและเนื้อเยื่อ",
+      "target": "กระเพาะอาหาร",
+      "relationship": "ส่งผลให้",
+      "description": "กล้ามเนื้อและเนื้อเยื่อที่มีประสิทธิภาพในการทำงานน้อยลงส่งผลให้กระเพาะอาหารมีประสิทธิภาพในการทำงานน้อยลง",
+      "doc_id": "5555",
+      "chunk_id": 5
+    },
+    {
+      "source": "Heartburn",
+      "target": "Acid Reflux",
+      "relationship": "is a symptom of",
+      "description": "Heartburn เป็นอาการสำคัญของโรคกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 6
+    },
+    {
+      "source": "Dysphagia",
+      "target": "Acid Reflux",
+      "relationship": "is a complication of",
+      "description": "ภาวะกลืนอาหารลำบากอาจเกิดขึ้นเนื่องจากภาวะหลอดอาหารอักเสบเรื้อรังจากกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 6
+    },
+    {
+      "source": "Infant Acid Reflux",
+      "target": "Acid Reflux",
+      "relationship": "is a form of",
+      "description": "ภาวะกรดไหลย้อนในทารกเป็นรูปแบบหนึ่งของภาวะกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 6
+    },
+    {
+      "source": "Pneumonia",
+      "target": "Infant Acid Reflux",
+      "relationship": "can be caused by",
+      "description": "ภาวะปอดอักเสบอาจเกิดจากการสำลักน้ำย่อยเข้าปอดในทารกที่มีภาวะกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 6
+    },
+    {
+      "source": "กรดไหลย้อน",
+      "target": "เสียงแหบ",
+      "relationship": "มีอาการ",
+      "description": "กรดไหลย้อนอาจทำให้เกิดอาการเสียงแหบเนื่องจากกรดไประคายเคืองที่กล่องเสียง",
+      "doc_id": "5555",
+      "chunk_id": 8
+    },
+    {
+      "source": "กรดไหลย้อน",
+      "target": "เจ็บคอ",
+      "relationship": "มีอาการ",
+      "description": "กรดไหลย้อนอาจทำให้เกิดอาการเจ็บคอเนื่องจากกรดไประคายเคืองที่ลำคอ",
+      "doc_id": "5555",
+      "chunk_id": 8
+    },
+    {
+      "source": "กรดไหลย้อน",
+      "target": "ไอเรื้อรัง",
+      "relationship": "มีอาการ",
+      "description": "กรดไหลย้อนอาจทำให้เกิดอาการไอเรื้อรังเนื่องจากกรดไประคายเคืองที่หลอดลม",
+      "doc_id": "5555",
+      "chunk_id": 8
+    },
+    {
+      "source": "กรดไหลย้อน",
+      "target": "หอบหืด",
+      "relationship": "มีอาการ",
+      "description": "กรดไหลย้อนอาจทำให้เกิดอาการหอบหืดเนื่องจากกรดไประคายเคืองที่หลอดลม",
+      "doc_id": "5555",
+      "chunk_id": 8
+    },
+    {
+      "source": "กรดไหลย้อน",
+      "target": "แผลที่หลอดอาหาร",
+      "relationship": "อาจมี",
+      "description": "กรดไหลย้อนอาจทำให้เกิดแผลที่หลอดอาหารเนื่องจากกรดไประคายเคืองและทำลายเยื่อบุหลอดอาหาร",
+      "doc_id": "5555",
+      "chunk_id": 8
+    },
+    {
+      "source": "กรดไหลย้อน",
+      "target": "หลอดอาหารบาร์เรตต์",
+      "relationship": "อาจมี",
+      "description": "กรดไหลย้อนอาจทำให้เกิดภาวะหลอดอาหารบาร์เรตต์เนื่องจากเยื่อบุหลอดอาหารเปลี่ยนแปลงไปเป็นเยื่อที่คล้ายกับเยื่อบุลำไส้เล็ก",
+      "doc_id": "5555",
+      "chunk_id": 8
+    },
+    {
+      "source": "ลูกยอ",
+      "target": "กรดไหลย้อน",
+      "relationship": "ใช้ในการรักษา",
+      "description": "ลูกยอใช้ในการทำยาสำหรับรักษาอาการกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 12
+    },
+    {
+      "source": "หัวหญ้าแห้วหมู",
+      "target": "กรดไหลย้อน",
+      "relationship": "ใช้ในการรักษา",
+      "description": "หัวหญ้าแห้วหมูใช้ในการทำยาสำหรับรักษาอาการกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 12
+    },
+    {
+      "source": "Scopoletin",
+      "target": "การอักเสบ",
+      "relationship": "มีฤทธิ์ต้าน",
+      "description": "Scopoletin มีฤทธิ์ต้านการอักเสบและการหลั่งของกรด",
+      "doc_id": "5555",
+      "chunk_id": 12
+    },
+    {
+      "source": "Scopoletin",
+      "target": "การหลั่งของกรด",
+      "relationship": "มีฤทธิ์ต้าน",
+      "description": "Scopoletin มีฤทธิ์ต้านการอักเสบและการหลั่งของกรด",
+      "doc_id": "5555",
+      "chunk_id": 12
+    },
+    {
+      "source": "Scopoletin",
+      "target": "Ranitidine",
+      "relationship": "เพิ่มการดูดซึม",
+      "description": "Scopoletin สามารถเพิ่มการดูดซึมของยา Ranitidine",
+      "doc_id": "5555",
+      "chunk_id": 12
+    },
+    {
+      "source": "หญ้าลิ้นงู",
+      "target": "อาการปวดแสบปวดร้อนที่หน้าอก",
+      "relationship": "ใช้บรรเทา",
+      "description": "หญ้าลิ้นงูใช้ในการบรรเทาอาการปวดแสบปวดร้อนที่หน้าอกจากกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 12
+    },
+    {
+      "source": "ว่านกาบหอย",
+      "target": "กรดไหลย้อน",
+      "relationship": "ใช้ในการรักษา",
+      "description": "ว่านกาบหอยใช้ในการรักษาอาการกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 12
+    },
+    {
+      "source": "ย่านาง",
+      "target": "กรดไหลย้อน",
+      "relationship": "ใช้ในการรักษา",
+      "description": "น้ำใบย่านางคั้นสดใช้ในการรักษาอาการกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 12
+    },
+    {
+      "source": "โรคกรดไหลย้อน",
+      "target": "โรคเรื้อรัง",
+      "relationship": "เป็น",
+      "description": "โรคกรดไหลย้อนเป็นโรคเรื้อรังที่ส่งผลต่อคุณภาพชีวิตค่อนข้างมาก",
+      "doc_id": "5555",
+      "chunk_id": 13
+    },
+    {
+      "source": "การรักษา",
+      "target": "โรคกรดไหลย้อน",
+      "relationship": "ช่วย",
+      "description": "การรักษาช่วยให้โรคสงบได้นานและชะลอหรือลดความรุนแรงของโรค",
+      "doc_id": "5555",
+      "chunk_id": 13
+    },
+    {
+      "source": "การปรับเปลี่ยนพฤติกรรม",
+      "target": "การควบคุมโรค",
+      "relationship": "ช่วย",
+      "description": "การปรับเปลี่ยนพฤติกรรมการกินและการใช้ชีวิตช่วยควบคุมโรคกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 13
+    },
+    {
+      "source": "การรักษาด้วยยา",
+      "target": "การควบคุมโรค",
+      "relationship": "ช่วย",
+      "description": "การรักษาด้วยยาช่วยควบคุมโรคกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 13
+    },
+    {
+      "source": "การผ่าตัด",
+      "target": "การควบคุมโรค",
+      "relationship": "ช่วย",
+      "description": "การผ่าตัดช่วยควบคุมโรคกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 13
+    },
+    {
+      "source": "เมดไทย",
+      "target": "กรดไหลย้อน",
+      "relationship": "ให้ข้อมูลเกี่ยวกับ",
+      "description": "เมดไทยให้ข้อมูลเกี่ยวกับภาวะกรดไหลย้อน",
+      "doc_id": "5555",
+      "chunk_id": 16
+    },
+    {
+      "source": "Symptoms",
+      "target": "Physician Consultation",
+      "relationship": "requires",
+      "description": "If you have symptoms, you should consult a physician",
+      "doc_id": "5555",
+      "chunk_id": 17
+    }
+  ],
+  "metadata": {
+    "model": "qwen/qwen-2.5-72b-instruct",
+    "documents": [
+      "1",
+      "2",
+      "44",
+      "5555"
+    ],
+    "total_chunks": 78,
+    "total_nodes": 288,
+    "total_edges": 296
+  }
+}
